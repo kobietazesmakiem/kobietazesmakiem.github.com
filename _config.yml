@@ -1,21 +1,21 @@
 # Site
-name: "Paulina Kosmowska"
+name: "Smacznego w kobiecym stylu"
 title: "Kobieta Ze Smakiem"
-description: "rzepisy | Gotowanie | Kulinaria | Blog Kobieta ze smakiem &#8211; W kobiecym stylu o różnych smakach życia"
+description: "Przepisy | Gotowanie | Kulinaria | Blog Kobieta ze smakiem &#8211; W kobiecym stylu o różnych smakach życia"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#google_analytics: 'UA-46278016-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Paulina Kosmowska:
+    name: Paulina
+    display_name: Paulina
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net

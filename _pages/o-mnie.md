@@ -4,11 +4,7 @@ title: O mnie
 permalink: /o-mnie
 ---
 
-<div class="row justify-content-between" style="background-color: #f9f9f9;
-    background-image: url({{site.baseurl}}/assets/images/strawberries-2563395_1920-1500x1000.jpg);
-    background-repeat: no-repeat;
-    background-position: 50% 0%;
-    background-attachment: fixed;">
+<div class="row justify-content-between">
 <div class="col-md-8 pr-5" >
 
 <h5>Cześć jestem Paulina – Kobieta ze smakiem</h5>

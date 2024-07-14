@@ -2,7 +2,7 @@
 layout: post
 title:  Deser jabłkowy
 categories: [przepisy]
-tags: [ciasta-ciasteczka-desery, desery, jablka, na-slodko, ]
+tags: [ciasta-ciasteczka-desery, desery, jablka, na-slodko]
 image: assets/images/2015/05/deser-z-jablkami-2.jpg
 ---
 Są takie dni kiedy czasu jest mało, a ochota na słodki deser po prostu nie odpuszcza. Wtedy warto mieć w zanadrzu przepis na błyskawiczny, prosty i przepyszny słodki deser. Jednym z bardziej wdzięcznych produktów do deseru są jabłka. Stąd pomysł na deser jabłkowy. Karmelizowane jabłka, cynamon, kruszone ciasteczka i słodko kwaśna śmietanka - wszystko to razem to pychota.

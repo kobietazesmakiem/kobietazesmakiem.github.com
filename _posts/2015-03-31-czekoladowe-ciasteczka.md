@@ -2,7 +2,7 @@
 layout: post
 title:  Absolutnie czekoladowe ciasteczka
 categories: [przepisy]
-tags: [ciasta-ciasteczka-desery, ciastka, czekolada, desery, na-slodko, ]
+tags: [ciasta-ciasteczka-desery, ciastka, czekolada, desery, na-slodko]
 image: assets/images/2015/03/ciasteczka-czkoladowe.jpg
 ---
 Długo poszukiwałam smaku prawdziwej słodko gorzkiej czekolady, a właściwie jej niewytłumaczalnej głębi. Z pomocą przyszła mi guru gotowania z miłością i pasją czyli Nigella. jej przepis na absolutnie czekoladowe ciasteczka podbił moje serce (z książki Nigella Expresowo). Ciasteczka są rozchwytywane, a jedynym śladem po nich są okruchy w kącikach ust. To chyba najlepsza recenzja. Z kawą smakują dobrze, ale z mlekiem... rozkosz dla podniebienia i powrót do czasów dzieciństwa gratis.

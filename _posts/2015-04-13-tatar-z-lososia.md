@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Tatar z łososia"
+title:  "http://kobieta-ze-smakiem.pl/?p=723"
 categories: ['przepisy']
 tags: ['kolacja', 'losos', 'na-slono', 'przekaska', 'przepisy', 'przystawka', 'ryba', 'ryby-i-owoce-morza', 'tatar']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=723"
 ---
 Tatar z łososia to lżejsza wersja tradycyjnego tatara. Pozycja obowiązkowa dla wielbicieli sushi i innych wersji surowej ryby. Dla mnie to przede wszystkim delikatna przystawka, lekka, delikatna i pyszna. W tej wersji smak łososia wydobywa ją dodatki, ponieważ jest to tatar z łososia z kaparami i słodką cebulą w towarzystwie koperkowego dressingu. całość tworzy piękną kompozycję, a jej przygotowanie absolutnie nie jest trudne. Podane składniki pozwalają na przygotowanie 4 porcji o średnicy 7 cm.
 

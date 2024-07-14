@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Chłodnik z botwinką"
+title:  "http://kobieta-ze-smakiem.pl/?p=891"
 categories: ['przepisy']
 tags: ['chlodnik', 'dietetycznie', 'na-slono', 'przepisy', 'wege', 'zupa', 'zupy']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=891"
 ---
 Uff jak gorąco! Są takie właśnie dni kiedy upał i słońce skutecznie zniechęcają do przebywania w kuchni w towarzystwie gorących garnków. Własnie na takie dni warto mieć w zanadrzu błyskawiczny przepis na coś pysznego i chłodnego. Piękny różowy chłodnik z młodej botwinki, chrupiących ogórków i rzodkiewek, z pysznym koprem i szczypiorem. Pyyycha! Smak wiosny i cudowne ochłodzenie - taki obiad to zbawienie w upalne dni. Ma jeszcze jeden wielki atutu samo zdrowie bez zbędnych kalorii.
 

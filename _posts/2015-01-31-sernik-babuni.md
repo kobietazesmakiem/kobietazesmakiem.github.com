@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sernik babuni"
+title:  "http://kobieta-ze-smakiem.pl/?p=143"
 categories: ['przepisy']
 tags: ['ciasta', 'ciasta-ciasteczka-desery', 'przepisy', 'sernik']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=143"
 ---
 Jeden z serników, w którym można zakochać się od pierwszego kęsa. Jest puszysty, delikatny i wilgotny. Składniki i wykonanie mogą zaskoczyć i nawet jeżeli przejdzie Wam przez myśl (tak jak mnie), że taka płynna konsystencja masy serowej lub spód bez podpieczenia przeczy wszelkim zasadom pieczenia ciast – spokojnie magia działa, a sernik wychodzi idealny!
 

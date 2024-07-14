@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Risotto carbonara"
+title:  "http://kobieta-ze-smakiem.pl/?p=875"
 categories: ['przepisy']
 tags: ['boczek', 'danie-glowne', 'jednogarnkowe', 'kolacja', 'miesa', 'na-slono', 'obiad', 'przepisy', 'risotto']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=875"
 ---
 Risotto to zwykle owoce morza i białe wino, ale nie zawsze. Tym razem proponuję risotto z wędzonym boczkiem i śmietanką. Carbonara to tradycyjnie wersja spaghetti, ale wierzcie mi na słowo jako risotto również sprawdza się rewelacyjnie. Pyszne, delikatne, kremowe i pachnące wędzonką risotto jest daniem jednogarnkowym, które ma tendencje do znikania z garnka i lodówki w mgnieniu oka, a to chyba najlepsza recenzja. Polecam.
 [![risotto carbonara 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/05/risotto-carbonara-1-300x225.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/05/risotto-carbonara-1.jpg)

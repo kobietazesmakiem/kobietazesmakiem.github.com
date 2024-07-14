@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z roszponką i wędzonym łososiem"
+title:  "http://kobieta-ze-smakiem.pl/?p=559"
 categories: ['przepisy']
 tags: ['losos', 'na-slono', 'przekaska', 'przepisy', 'przystawka', 'ryby-i-owoce-morza', 'salatki']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=559"
 ---
 Są takie dni kiedy zwycięża apetyt na kolor, świeżość, zdrowie i coś lekkiego. Na takie zachcianki najlepsza jest sałatka. Świeża, delikatna i apetyczna. Tym razem proponuję sałatkę z roszponki z wędzonym łososiem w towarzystwie owoców, orzechów i pleśniowego sera. Kompozycja smakowa idealna. Świetnie sprawdzi się jako przystawka, lekki lunch lub przekąska na imprezie.
 

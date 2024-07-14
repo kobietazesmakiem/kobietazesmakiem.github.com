@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Babka piaskowa"
+title:  "http://kobieta-ze-smakiem.pl/?p=682"
 categories: ['przepisy']
 tags: ['babka', 'ciasta', 'ciasta-ciasteczka-desery', 'desery', 'przepisy', 'wielkanoc']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=682"
 ---
 Babka piaskowa to klasyka świąt wielkanocnych. Jest to jedno z tych ciast, które lubi płatać figle i zamienić się w zakalec. Od kiedy korzystam z tego przepisu wielbiciele zakalców zostają na lodzie, niestety albo stety ta baka piaskowa zawsze wychodzi. Jest delikatna, ma świetną piaskowa strukturę, a w duecie z herbatą jest przepyszna. Niezła z niej babka do tego stopnia, że znika w nieznanych okolicznościach.
 

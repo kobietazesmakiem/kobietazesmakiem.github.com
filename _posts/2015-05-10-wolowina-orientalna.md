@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Wołowina w stylu orientalnym"
+title:  "http://kobieta-ze-smakiem.pl/?p=839"
 categories: ['przepisy']
 tags: ['danie-glowne', 'miesa', 'na-ostro', 'na-slono', 'obiad', 'orientalnie', 'przepisy', 'wolowina']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=839"
 ---
 Słodko ostra orientalna wołowina to gratka dla wielbicieli azjatyckich smaków. Ostrość papryczek chili idealnie łączy się ze słodyczą ananasa i chrupiącymi orzeszkami ziemnymi. Danie jest bardzo ostre i właśnie takie być powinno. Sekretem tego dania jest trawa cytrynowa i przygotowanie wołowiny w woku na bardzo ostrym ogniu. Całość dania przygotowuje się super szybko, w tym przypadku krótkie smażenie jest bardzo ważne. Wołowinę można serwować np. z kolorowym ryżem.
 

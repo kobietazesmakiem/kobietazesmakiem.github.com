@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z jarmużem"
+title:  "http://kobieta-ze-smakiem.pl/?p=153"
 categories: ['przepisy']
 tags: ['jarmuz', 'przepisy', 'salatka']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=153"
 ---
 Delikatna sałatka, lekko wykwintna, prosta w przygotowaniu i dzięki połączeniu różnych smaków wyjątkowa. Idealnie komponuje się z ciepłymi grzankami z kozim serem i sosem balsamico. Świetnie sprawdza się jako przystawka i jest całkiem prosta w przygotowaniu. Podane składniki to dwie duże porcje sałatki.
 

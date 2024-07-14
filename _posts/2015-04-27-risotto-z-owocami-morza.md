@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Risotto z owocami morza"
+title:  "http://kobieta-ze-smakiem.pl/?p=789"
 categories: ['przepisy']
 tags: ['danie-glowne', 'kolacja', 'na-slono', 'owoce-morza', 'przepisy', 'risotto', 'ryby-i-owoce-morza']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=789"
 ---
 Risotto z owocami morza, delikatne, aromatyczne, pełne morskich smakołyków i pachnące trawą cytrynową. Danie godne ciepłego wieczoru, zachodzącego słońca i dobrego wina. Najpierw miało być wg przepisu Gordona Ramsaya, później wg Nigelli, a wyszło wg Pauliny i nieskromnie powiem, że jest pyszne. Risotto ma swoje wymagania, to kilka pobrudzonych garnków plus cierpliwe regularne mieszanie ryżu i dodawanie bulionu. Efekt finalny jest jednak w zupełności godny tego wysiłku, risotto rozpływa się w ustach i znajduje wielu zwolenników.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/risotto-z-owocami-morza-2-300x222.jpg)

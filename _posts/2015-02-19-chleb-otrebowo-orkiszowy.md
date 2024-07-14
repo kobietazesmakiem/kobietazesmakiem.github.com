@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Chleb otrębowo-orkiszowy"
+title:  "http://kobieta-ze-smakiem.pl/?p=432"
 categories: ['przepisy']
 tags: ['chleb', 'dietetycznie', 'inne', 'kulinarnie', 'przepisy', 'sniadanie']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=432"
 ---
 Chlebek otrębowo owsiany to zdrowy i pożywnych chleb domowego wypieku. Ma chrupiącą skórkę, a pożywne ziarenka sezamu i słonecznika to dodatkowa chrupka atrakcja. Mimo otrębów ten wypiek jest delikatnie wilgotny, dlatego tak bardzo go lubię. Taki domowy chlebek idealnie komponuje się z delikatnym twarożkiem ze szczypiorkiem i rzodkiewką, kanapeczki to propozycja na zdrowe śniadanie w domu lub dodające energii szybkie śniadanie w pracy. Przepis na chlebek inspirowany jest przepisami na bułki i chleby z diety dukan, więc nie ma obaw o kalorie.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/02/chleb-otrebowo-orkiszowy-1-300x222.jpg)

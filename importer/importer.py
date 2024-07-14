@@ -24,12 +24,17 @@ for item in items:
         if category_el.getAttribute('domain') == 'category':
             categories.append(category_el.getAttribute('nicename'))
 
+    postmetas_el = item.getElementsByTagName('wp:postmeta')
+    image = title = item.getElementsByTagName('guid')[0].childNodes[0].data
+
     record = {
         'title': title, 'post_name': post_name, 'categories': categories, 'tags': tags, 'date': f"{date}"[:10],
+        'image': image,
         "content": markdownify.markdownify(content, heading_style="ATX")
     }
     # print(f"{record}")
     records.append(record)
+    # break
 
 print(len(records))
 
@@ -41,7 +46,7 @@ layout: post
 title:  "{record['title']}"
 categories: {record['categories']}
 tags: {record['tags']}
-image: assets/images/1.jpg
+image: "{record['image']}"
 ---
 {record['content']}
     """)

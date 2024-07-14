@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Czarne spaghetti z owocami morza"
+title:  "http://kobieta-ze-smakiem.pl/?p=130"
 categories: ['przepisy']
 tags: ['czarny-makaron', 'kolacja', 'krewetki', 'makaron', 'owoce-morza', 'przepisy', 'ryby-i-owoce-morza', 'spaghetti']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=130"
 ---
 Dane idealne na rodzinny obiad i kolację z przyjaciółmi. Smakuje pysznie, jest aromatyczne i delikatne, a jednocześnie robi ogromne wrażenie wizualne. Ma jeszcze jedną wielką zaletę… jest bardzo łatwe w wykonaniu.
 

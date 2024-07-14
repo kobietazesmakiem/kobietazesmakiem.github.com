@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z wędzonym kurczakiem"
+title:  "http://kobieta-ze-smakiem.pl/?p=580"
 categories: ['przepisy']
 tags: ['kurczak', 'na-slono', 'przekaska', 'przepisy', 'przystawka', 'przystawki', 'salatka']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=580"
 ---
 Kurczę wędzone, ale to jest dobre. To jedna z tych sałatek, które wciągają, uzależniają i w dziwnych okolicznościach znikają z lodówki. Z resztą spróbujcie sami. Świetnie sprawdza się na imprezach, do grilla i na świątecznym stole. W sałatce może zdziwić ilość majonezu, tak używamy właściwie cały słoik. Mamy do czynienia z dość suchymi składnikami, więc jeśli sałatka ma być pyszna to majonez jest konieczny.
 

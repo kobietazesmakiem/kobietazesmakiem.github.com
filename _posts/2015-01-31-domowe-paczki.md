@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Domowe pączki"
+title:  "http://kobieta-ze-smakiem.pl/?p=147"
 categories: ['przepisy']
 tags: ['ciasta-ciasteczka-desery', 'paczki', 'przepisy']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=147"
 ---
 Chrupiące z zewnątrz i puszyste w środku. Pączki idealne, a te ze sklepu niech się schowają! Na pewno nie jest to przepis dietetyczny oj nie! Wyjątkowy smak gwarantuje smażenie pączków na głębokim tłuszczu, a dokładniej na smalcu. Pączki na smalcu? Oj tak…czysta rozpusta wiem! Ale warta grzechu. Pozwalam sobie na te pączki zwykle w karnawale, a przepis pochodzi od mojej mamy, więc dla mnie osobiście domowe pączki mają wyjątkowo sentymentalne znaczenie.
 [![domowe_paczki](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/domowe_paczki-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/domowe_paczki.jpg)

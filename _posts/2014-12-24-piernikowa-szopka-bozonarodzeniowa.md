@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Piernikowa szopka Bożonarodzeniowa"
+title:  "http://kobieta-ze-smakiem.pl/?p=58"
 categories: ['przepisy']
 tags: ['boze-narodzenie', 'ciasta-ciasteczka-desery', 'pierniczki', 'przepisy', 'swieta']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=58"
 ---
 Warto pokusić się o chwile artystycznej twórczości po to by sprawić radość sobie i bliskim. W ubiegłym roku był domek z pienika, czas na większą budowlę! Zapach piernikowej szopki po zapaleniu w niej świeczki typu podgrzewacz nadaje świątecznego nastroju.
 

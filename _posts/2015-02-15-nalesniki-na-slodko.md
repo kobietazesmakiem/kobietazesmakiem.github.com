@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Naleśniki na słodko"
+title:  "http://kobieta-ze-smakiem.pl/?p=254"
 categories: ['przepisy']
 tags: ['dania-maczne', 'desery', 'inne', 'na-slodko', 'nalesniki', 'przepisy', 'sniadanie']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=254"
 ---
 Prosty i sprawdzony przepis na naleśniki to punkt obowiązkowy każdego domu. Ja proponuję naleśniki na słodko, cienkie i puszyste. Najlepiej smakują z prażonymi jabłkami, ulubionymi dżemami, waniliowym serkiem homogenizowanym lub twarożkiem na słodko. Można je posypać cukrem pudrem, polać słodką śmietanką lub miodem. Pozycja idealna na śniadanie lub deser. Przepis pozwala na przygotowanie około 15 naleśników o średnicy 20 cm.
 

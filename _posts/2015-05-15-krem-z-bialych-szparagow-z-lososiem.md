@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Krem z białych szparagów z łososiem"
+title:  "http://kobieta-ze-smakiem.pl/?p=858"
 categories: ['przepisy']
 tags: ['losos', 'na-slono', 'przepisy', 'przystawka', 'przystawki', 'ryby-i-owoce-morza', 'szparagi', 'zupa', 'zupa-krem', 'zupy']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=858"
 ---
 Sezon na szparagi to najlepszy czas na klasyki gatunku ze szparagami w roli głównej. Tym razem proponuję klasyczny krem ze szparagów z wędzonym łososiem. Delikatny kremowy o posmaku masła i śmietanki. Pyszny i lekki - świetna przystawka.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/05/IMG_20150513_194141-300x225.jpg)

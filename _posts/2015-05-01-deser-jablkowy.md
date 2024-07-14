@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Deser jabłkowy"
+title:  "http://kobieta-ze-smakiem.pl/?p=813"
 categories: ['przepisy']
 tags: ['ciasta-ciasteczka-desery', 'desery', 'jablka', 'na-slodko', 'przepisy']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=813"
 ---
 Są takie dni kiedy czasu jest mało, a ochota na słodki deser po prostu nie odpuszcza. Wtedy warto mieć w zanadrzu przepis na błyskawiczny, prosty i przepyszny słodki deser. Jednym z bardziej wdzięcznych produktów do deseru są jabłka. Stąd pomysł na deser jabłkowy. Karmelizowane jabłka, cynamon, kruszone ciasteczka i słodko kwaśna śmietanka - wszystko to razem to pychota.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/05/deser-z-jablkami-300x222.jpg)

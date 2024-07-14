@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z tortellini"
+title:  "http://kobieta-ze-smakiem.pl/?p=480"
 categories: ['przepisy']
 tags: ['bazylia', 'czosnek', 'przekaska', 'przepisy', 'przystawka', 'salatki', 'tortellini', 'wege']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=480"
 ---
 Sałatka z tortellini i sosem czosnkowo-bazyliowym, to pozycja, która zdecydowanie nie sprzyja całowaniu, ze względu na zawartość czosnku, cebuli i szczypiorku. Dla całujących się polecam jeść ją we dwoje i po problemie. Mimo tej jednaj małej wady zdecydowanie warto się na nią skusić. Ma posmak wiosny i jest sycąca. Idealnie pasuje jako imprezowa przystawka lub dodatek do grilla. Jeśli nie lubicie grzybów możecie śmiało użyć tortellini z mięsem (ja polecam  z grzybami).
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z kurczakiem grillowanym w bazylii"
+title:  "http://kobieta-ze-smakiem.pl/?p=106"
 categories: ['przepisy']
 tags: ['filet-z-kurczaka', 'przepisy', 'przystawki', 'salatki']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=106"
 ---
 Lekka sałatka z grillowanym kurczakiem, słodkim posmakiem gruszki, sera pleśniowego i orzechów.  Miodowy sos winegret dodaje jej charakteru. Idealna o każdej porze roku, na przekąskę lub kiedy za 15 minut wpadają goście.
 ![kobietazesmakiem.pl sałatka_z_kurczakiem_grillowanym_w_bazylii](https://kobietazesmakiem.pl/wp-content/uploads/2022/08/salatka_z_kurczakiem_grillowanym_w_bazylii-222x300.jpg)

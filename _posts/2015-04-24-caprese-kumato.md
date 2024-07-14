@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Caprese kumato"
+title:  "http://kobieta-ze-smakiem.pl/?p=766"
 categories: ['przepisy']
 tags: ['na-slono', 'przekaska', 'przepisy', 'przystawka', 'przystawki', 'salatki', 'wege']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=766"
 ---
 Miała być klasyczna sałatka caprese, aż wpadły mi w ręce pomidory kumato. Ciekawy kolor złotej zieleni przekonał mnie do wykorzystania ich i nadania caprese nowych barw. Pomidory kumato świetnie sprawdzają się do sałatek, ponieważ mają intensywny słodko kwaśny smak i mają fajną zwartą konsystencję. Samo caprese jest robione klasycznie z pomidorów mozzarelli i świeżej bazylii. Ta wersja serwowana jest ze świeżym sosem a'la pesto. Sałatka jest lekka, aromatyczna i przenosi nas do słonecznej Italii.
 

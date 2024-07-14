@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Pstrąg grillowany z makaronem z cukinii"
+title:  "http://kobieta-ze-smakiem.pl/?p=191"
 categories: ['przepisy']
 tags: ['dietetycznie', 'obiad', 'przepisy', 'pstrag', 'ryby-i-owoce-morza']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=191"
 ---
 Grillowana ryba z dodatkami, czyli idealna pozycja na lekkostrawny obiad. Pstrąg i jego delikatne mięso doskonale komponuje się ze zdrowym, makaronem z cukinii. Dietowiczom szczerze polecam taki obiad lub kolację. Kubki smakowe i głód są zaspokojone, ale nie czujemy się ociężali i zapchani. Samo zdrowie, mniam!
 

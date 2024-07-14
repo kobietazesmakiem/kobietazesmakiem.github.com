@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Owsianka z bakaliami"
+title:  "http://kobieta-ze-smakiem.pl/?p=185"
 categories: ['przepisy']
 tags: ['dietetycznie', 'inne', 'owsianka', 'przepisy', 'sniadanie', 'zdrowo']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=185"
 ---
 Pyszna, delikatna, pachnąca morelami, śliwkami i innymi bakaliami owsianka - królowa poranka. Idealna na początek dobrego dnia. Jest dość gęsta i bardzo pożywna. Najlepiej smakuje na ciepło. Zaspakaja nawet największy apetyt na długo. Porcja dla dwóch bardzo głodnych porankowiczów. Na zimno może też stanowić doskonałe i zdrowe drugie śniadanie w pracy.
  [![owsianka_1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/owsianka_1-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/owsianka_1.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sałatka z kokosowymi nuggetsami z indyka i mango"
+title:  "http://kobieta-ze-smakiem.pl/?p=747"
 categories: ['przepisy']
 tags: ['indyk', 'na-slono', 'nuggetsy', 'obiad', 'orientalnie', 'przekaska', 'przepisy', 'przystawka', 'przystawki', 'salatki']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=747"
 ---
 Nuta egzotyki w tym wydaniu to sałatka z kokosowymi nuggetsami z indyka i tropikalnym mango, serwowana z musztardowym dressingiem.  Przystawka, która jest jednocześnie słona i słodka to zdecydowanie moje smaki. Sałatka łączy smaki egzotyczne kokosa i mango z delikatnym białym mięsem i charakterystycznym musztardowym dressingiem. Jest to świetna propozycja na ciekawą przystawkę lub na  lekki letni lunch. Do tego kieliszek margherity i jest perfekcyjnie.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/salatka-kokosowy-indyk-2-300x222.jpg)

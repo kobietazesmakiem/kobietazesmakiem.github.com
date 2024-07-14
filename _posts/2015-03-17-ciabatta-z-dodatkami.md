@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Ciabatta z dodatkami"
+title:  "http://kobieta-ze-smakiem.pl/?p=563"
 categories: ['przepisy']
 tags: ['ciabatta', 'dania-maczne', 'inne', 'na-slono', 'pieczywo', 'przekaska', 'przepisy', 'przystawka', 'wege']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=563"
 ---
 Ciabatta to bardzo wdzięczne pieczywo, wykonuje się je stosunkowo szybko i łatwo, a pieczone z dodatkami kusi każdego łasucha. Ta ciabatta to wersja nieco zdrowsza, bo przygotowywana z mąki orkiszowej. Można dodać do niej ulubione składniki komponując według własnej kreatywności. Ciabatta orkiszowa najlepiej smakuje jeszcze ciepła maczana w dobrej jakości oliwie z oliwek.
   [![ciabatta orkiszowa](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/ciabatta-orkiszowa-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/ciabatta-orkiszowa.jpg)

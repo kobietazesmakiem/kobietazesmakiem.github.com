@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Absolutnie czekoladowe ciasteczka"
+title:  "http://kobieta-ze-smakiem.pl/?p=638"
 categories: ['przepisy']
 tags: ['ciasta-ciasteczka-desery', 'ciastka', 'czekolada', 'desery', 'na-slodko', 'przepisy']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=638"
 ---
 Długo poszukiwałam smaku prawdziwej słodko gorzkiej czekolady, a właściwie jej niewytłumaczalnej głębi. Z pomocą przyszła mi guru gotowania z miłością i pasją czyli Nigella. jej przepis na absolutnie czekoladowe ciasteczka podbił moje serce (z książki Nigella Expresowo). Ciasteczka są rozchwytywane, a jedynym śladem po nich są okruchy w kącikach ust. To chyba najlepsza recenzja. Z kawą smakują dobrze, ale z mlekiem... rozkosz dla podniebienia i powrót do czasów dzieciństwa gratis.
  [![ciasteczka czekoladowe 2](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/ciasteczka-czekoladowe-2-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/ciasteczka-czekoladowe-2.jpg)

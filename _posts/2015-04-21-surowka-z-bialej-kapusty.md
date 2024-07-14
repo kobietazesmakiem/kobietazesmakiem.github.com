@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Surówka z białej kapusty"
+title:  "http://kobieta-ze-smakiem.pl/?p=754"
 categories: ['przepisy']
 tags: ['dodatki', 'kapusta', 'na-slono', 'przepisy', 'surowki', 'wege']
-image: assets/images/1.jpg
+image: "http://kobieta-ze-smakiem.pl/?p=754"
 ---
 Kiedy kończy się zima, a trawa zaczyna się zielenić nasz organizm domaga się witamin. Wtedy też warto zamienić gotowane i duszone warzywa, na świeże surówki, które będą świetnym dodatkiem do obiadu. Ta wersja surówki z młodej białej kapusty swoja kompozycję zawdzięcza głównie koperkowi i oliwie z oliwek. Surówka jest jednocześnie lekko chrupiąca i delikatna, a do tego super prosta i błyskawiczna do wykonania.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/salatka-z-bialej-kapusty-2-300x222.jpg)

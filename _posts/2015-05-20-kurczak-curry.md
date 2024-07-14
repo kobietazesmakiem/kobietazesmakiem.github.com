@@ -3,10 +3,10 @@ layout: post
 title:  Kurczak curry - potrawka z ryżem
 categories: [przepisy]
 tags: [curry, danie-glowne, kolacja, miesa, na-slono, orientalnie, piers-z-kurczaka, przepisy, ryz]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/05/kurczak-curry.jpg
+image: assets/images/2015/05/kurczak-curry.jpg
 ---
 Danie z cyklu szybkie i sycące. Jeżeli tylko lubicie curry to danie jest dla Was. Kurczak, odrobina warzyw, ryż i bardzo dużo curry to właśnie to danie. Pyszne na gorąco, świetnie sprawdzi się również jako a'la sałatka na zimno. Kurczak curry wykarmi zarówno głodną rodzinę jak i nie spodziewanych gości.
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/05/kurczak-curry-1-300x225.jpg)
+![](assets/images/2015/05/kurczak-curry-1-300x225.jpg)
 
 
 

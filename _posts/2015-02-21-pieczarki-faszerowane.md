@@ -3,7 +3,7 @@ layout: post
 title:  Pieczarki faszerowane
 categories: [przepisy]
 tags: [inne, kulinarnie, obiad, przepisy, przystawka, wege]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/02/pieczarki-faszerowane-1.jpg
+image: assets/images/2015/02/pieczarki-faszerowane-1.jpg
 ---
 Pomysł na danie, które może być przekąską i ciepłą przystawką. Świetna pozycja wśród przepisów na nagły nalot gości. Danie wykonuje się szybko, a robi wrażenie wyszukanego. Faszerowane pieczarki dla mnie świetna pozycja na obiad, lekka i pożywna. Podstawą są świeże i bardzo duże pieczarki. Pomysłodawcą tej potrawy jest moja mama, stąd mój ogromny sentyment do tego przepisu i miłe skojarzenia.
 [![pieczarki faszerowane 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/pieczarki-faszerowane-1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/pieczarki-faszerowane-1.jpg)

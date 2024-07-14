@@ -3,7 +3,7 @@ layout: post
 title:  Roladki z kurczaka
 categories: [przepisy]
 tags: [danie-glowne, kolacja, miesa, na-slono, obiad, piers-z-kurczaka, przepisy]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/roladki-z-kurczaka-2.jpg
+image: assets/images/2015/04/roladki-z-kurczaka-2.jpg
 ---
 Piersi kurczaka to bardzo wdzięczny produkt. Niejednokrotnie potrafi uratować obiad na szybko. W tej wersji piersi możemy zrolować z ulubionymi dodatkami. Ja proponuję mix czterech wersji roladek z kurczaka. Każda z nich bazuje na twarożku z koziego sera i rukoli oraz świeżo mielonym pieprzu. Dodatkowe smaki to: kapary, gruszka i orzechy włoskie, suszone pomidory i oliwki, a także konfitura z czerwonej cebuli. Każdy ze smaków jest wyjątkowy na swój sposób dlatego trudno powiedzieć, który jest najlepszy - wszystkie są godne uwagi, a ulubiony wybierzcie sami.
  [![roladki z kurczaka 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/roladki-z-kurczaka-1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/roladki-z-kurczaka-1.jpg)

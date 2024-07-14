@@ -3,12 +3,12 @@ layout: post
 title:  Tarta z kurczakiem suszonymi pomidorami i szpinakiem
 categories: [przepisy]
 tags: [dania-maczne, danie-glowne, kolacja, miesa, na-slono, obiad, piers-z-kurczaka, przepisy, przystawka, przystawki, suszone-pomidory, szpinak, tarta]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/05/tarta-z-kurczakiem-2.jpg
+image: assets/images/2015/05/tarta-z-kurczakiem-2.jpg
 ---
 Tarta z kurczakiem, suszonymi pomidorami i szpinakiem. Jedno z moich ulubionych dań. Połączenie pomidorów, kurczaka i szpinaku jest pyszne praktycznie w każdym wydaniu. W tym przypadku smaku i aromatu dodaje maślany kruchy spód i przypieczony serek mozzarella. Danie jest sycące, mały kawałek może być świetną przestawką, a duży serwowany ze świeżą sałatą może być spokojnie daniem obiadowym. Tarta najlepsza jest na gorąco, ale w sumie na zimno też jest bardzo dobra.
 
  
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/05/tarta-z-kurczaiem-1-300x222.jpg)
+![](assets/images/2015/05/tarta-z-kurczaiem-1-300x222.jpg)
 
 
 

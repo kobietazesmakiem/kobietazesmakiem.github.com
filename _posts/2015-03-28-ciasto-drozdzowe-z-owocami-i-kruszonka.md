@@ -3,12 +3,12 @@ layout: post
 title:  Ciasto drożdżowe z owocami i kruszonką
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, desery, drozdzowe, na-slodko, przepisy]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/drozdzowe-z-owowcami.jpg
+image: assets/images/2015/03/drozdzowe-z-owowcami.jpg
 ---
 Ciasto drożdżowe z owocami i kruszonką to trochę jak podróż do przeszłości. Czasów dzieciństwa kiedy słyszało się "jeszcze nie wolno jeść bo gorące". Każdy dom ma swój niepowtarzalny smak ciasta drożdżowego. Mój smak to przede wszystkim puszyste drożdżowe z kruszonką i owocami w zależności od sezonu truskawkami, śliwkami, a w tej wersji z borówkami i malinami. Ciasto jest pyszne, puszyste i delikatne, co więcej długo utrzymuje swoja świeżość, wystarczy pamiętać o tym żeby je dobrze przykryć. Sekretem dobrego drożdżowego ciasta jest zaczyn i cierpliwość. Najlepiej smakuje z cafe latte lub po prostu z mlekiem.
 
  
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/drozdzowe-z-owowcami-1-300x175.jpg)
+![](assets/images/2015/03/drozdzowe-z-owowcami-1-300x175.jpg)
 
 
 

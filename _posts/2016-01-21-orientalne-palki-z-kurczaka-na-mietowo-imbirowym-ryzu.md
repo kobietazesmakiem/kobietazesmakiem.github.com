@@ -3,11 +3,11 @@ layout: post
 title:  Orientalne pałki z kurczaka na miętowo-imbirowym ryżu
 categories: [przepisy]
 tags: [danie-glowne, kolacja, kurczak, miesa, na-slono, orientalnie, przepisy]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2016/01/orientalne-palki-1.jpg
+image: assets/images/2016/01/orientalne-palki-1.jpg
 ---
 Szybkie i smaczne danie na obiad pobudzające kubki smakowe. Orientalnie przyprawione podudzia z kurczaka idealnie komponują się z delikatnym i orzeźwiającym ryżem. Kurczak jest soczysty i aromatyczny dzięki orientalnej marynacie. Polecam dla wielbicieli smaków Azji i nie tylko.
 
-![](https://kobietazesmakiem.pl/wp-content/uploads/2016/01/orientalne-palki-2-300x228.jpg)
+![](assets/images/2016/01/orientalne-palki-2-300x228.jpg)
 #### **Składniki:**
 
 

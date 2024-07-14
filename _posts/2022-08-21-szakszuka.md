@@ -3,10 +3,10 @@ layout: post
 title:  Szakszuka
 categories: [przepisy]
 tags: [dietetycznie, inne, jajka, na-slono, pomidory, przepisy, szakszuka, wege]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2022/08/IMG_20220821_114248.jpg
+image: assets/images/2022/08/IMG_20220821_114248.jpg
 ---
 Szakszuka to pomysł na aromatyczne, pyszne, pożywne i zdrowe śniadanie. Jest to bliskowschodnia potrawa, pełna aromatycznych przypraw,  to świetna alternatywa dla tradycyjnej jajecznicy. Poza tym jest banalnie łatwa w przygotowaniu.
-![kobietazesmakiem.pl Szakszuka](https://kobietazesmakiem.pl/wp-content/uploads/2022/08/IMG_20220821_114459-225x300.jpg)
+![kobietazesmakiem.pl Szakszuka](assets/images/2022/08/IMG_20220821_114459-225x300.jpg)
 
 
 

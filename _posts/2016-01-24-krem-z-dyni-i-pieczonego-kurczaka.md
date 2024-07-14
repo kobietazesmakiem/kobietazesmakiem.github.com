@@ -3,11 +3,11 @@ layout: post
 title:  Krem z dyni i pieczonego kurczaka
 categories: [przepisy]
 tags: [dynia, kurczak, na-slono, przepisy, przystawka, zupa, zupa-krem, zupy]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2016/01/krem-z-dyni-i-kurczaka.jpg
+image: assets/images/2016/01/krem-z-dyni-i-kurczaka.jpg
 ---
 Pyszna, pożywna i rozgrzewająca zupa krem z dyni z pikantnymi paluchami. Delikatny smak pieczonej dyni świetnie zgrywa się z aromatem pieczonego kurczaka. Dzięki blendowaniu zupy z mięsem jest ona bardziej sycąca i pożywna. Fajnym dodatkiem do zupy są paluchy z ciasta francuskiego  z dodatkiem pikantnego chili i pietruszki. Dodatkowa zaleta tego dania to jego prostota, kilka składników, proste wykonanie i mamy pyszną przystawkę.
 
-![](https://kobietazesmakiem.pl/wp-content/uploads/2022/08/krem-z-dyni-i-kurczaka-1-300x210.jpg)
+![](assets/images/2022/08/krem-z-dyni-i-kurczaka-1-300x210.jpg)
 **Składniki:**
 * 1 pieczone udko z kurczaka
 * 500 g dyni (świeżej lub mrożonej)

@@ -3,10 +3,10 @@ layout: post
 title:  Roladki z łososiem
 categories: [przepisy]
 tags: [inne, losos, na-impreze, na-slono, przekaska, przepisy, przystawka, przystawki, ryby-i-owoce-morza]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/Smietankowe-roladki-z-lososiem.jpg
+image: assets/images/2015/04/Smietankowe-roladki-z-lososiem.jpg
 ---
 Roladki z łososiem i śmietankowym serkiem zawijane w klasyczny wrap tortilla to jedna z moich ulubionych przekąsek.  Roladki są delikatne i bardzo smaczne, a ich dodatkową zaletą jest prostota wykonania. Ten przepis to "must have" na wszelkiego rodzaju imprezy, jako super przekąska. Jednocześnie taką roladkę można  zajadać na śniadanie, kolację lub zabrać ze sobą do pracy. Musicie spróbować.
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/smietankowe-roladki-z-lososiem-2-300x222.jpg)
+![](assets/images/2015/04/smietankowe-roladki-z-lososiem-2-300x222.jpg)
 
 
 

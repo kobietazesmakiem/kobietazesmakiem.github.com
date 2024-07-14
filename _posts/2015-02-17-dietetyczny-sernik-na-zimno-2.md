@@ -3,7 +3,7 @@ layout: post
 title:  Dietetyczny sernik na zimno
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, desery, dietetycznie, dukan, na-slodko, przepisy, sernik]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/02/dietetyczny-sernik-2.jpg
+image: assets/images/2015/02/dietetyczny-sernik-2.jpg
 ---
 Słodycze kocham tak bardzo, że zawsze trudno jest mi z nich zrezygnować. Zdarzają się jednak sytuacje, w których trzeba zrobić bana na słodkie. Wtedy przerzucam się na liście sałaty, zaprzyjaźniam się z wodą i mówię nie słodyczom. Ponieważ jednak bez deseru żyć nie potrafię, przetestowałam kilka pomysłów na dietetyczne desery na sytuacje podbramkowe. Jeną z moich ulubionych pozycji jest sernik na zimno. Puszysty, delikatny na cynamonowym spodzie. Słodycz galaretki i ciasta idealnie komponuje się z lekko kwaskowym smakiem masy serowej. Sernik bez cukru, bez tłuszczu, ale ze smakiem, mniam. Niewtajemniczeni nie uwierzą, że to pozycja z menu na czas diety.
 [![dietetyczny sernik 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/dietetyczny-sernik-1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/dietetyczny-sernik-1.jpg)

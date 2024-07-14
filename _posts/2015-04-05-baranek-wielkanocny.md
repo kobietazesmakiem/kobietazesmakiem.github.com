@@ -3,7 +3,7 @@ layout: post
 title:  Baranek Wielkanocny
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, ciastka, desery, na-slodko, przepisy, wielkanoc]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/baranek-wielkanocny-2.jpg
+image: assets/images/2015/04/baranek-wielkanocny-2.jpg
 ---
 Ten symboliczny wypiek jest nie tylko ozdobą stołu, ale również świetnym łakociem. Baranek jest łatwy w przygotowaniu, jedyne czego wymaga to posiadania specjalnej formy do pieczenia baranka (moja w rozmiarze 21 cm). Ucierane ciasto cytrynowe, z którego robimy baranka sprawdzi się również na babeczki.
 [![baranek wielkanocny](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/baranek-wielkanocny-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/baranek-wielkanocny.jpg)

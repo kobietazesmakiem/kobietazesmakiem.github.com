@@ -3,12 +3,12 @@ layout: post
 title:  Sałatka z wędzonym kurczakiem
 categories: [przepisy]
 tags: [kurczak, na-slono, przekaska, przepisy, przystawka, przystawki, salatka]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/salatka-z-wedzonym-kurczakiem-3.jpg
+image: assets/images/2015/03/salatka-z-wedzonym-kurczakiem-3.jpg
 ---
 Kurczę wędzone, ale to jest dobre. To jedna z tych sałatek, które wciągają, uzależniają i w dziwnych okolicznościach znikają z lodówki. Z resztą spróbujcie sami. Świetnie sprawdza się na imprezach, do grilla i na świątecznym stole. W sałatce może zdziwić ilość majonezu, tak używamy właściwie cały słoik. Mamy do czynienia z dość suchymi składnikami, więc jeśli sałatka ma być pyszna to majonez jest konieczny.
 
 
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/salatka-z-wedzonym-kurczakiem-2-300x222.jpg)
+![](assets/images/2015/03/salatka-z-wedzonym-kurczakiem-2-300x222.jpg)
 
 
 

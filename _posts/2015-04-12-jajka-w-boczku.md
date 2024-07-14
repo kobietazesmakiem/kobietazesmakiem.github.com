@@ -3,10 +3,10 @@ layout: post
 title:  Jajka w boczku
 categories: [przepisy]
 tags: [boczek, inne, jajka, przepisy, przystawka, przystawki, sniadanie]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/jajka-w-boczku-2.jpg
+image: assets/images/2015/04/jajka-w-boczku-2.jpg
 ---
 Śniadanie definiuje nasz dzień, daje siłę i energię. Ważne żeby śniadanie zachęcało do rozpoczęcia świetnego dnia. Kiedy na zewnątrz zaczyna się wiosna a weekend wita słońce, warto zacząć taki dzień apetycznie i nietuzinkowo. Stąd pomysł na jajka w boczku ze szczypiorkiem i mozzarellą. Kiedy podpiekamy je w piekarniku dom wypełnia się aromatem szczypiorku i boczku, mniam. Są pyszne i świetnie komponują się z wiosennymi warzywami oraz świeżym chlebem.
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/jajka-w-boczku-1-300x225.jpg)
+![](assets/images/2015/04/jajka-w-boczku-1-300x225.jpg)
 
 
 

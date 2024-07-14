@@ -3,12 +3,12 @@ layout: post
 title:  Kopertki z ciasta francuskiego z kurczakiem
 categories: [przepisy]
 tags: [ciasto-francuskie, miesa, na-slono, przekaska, przepisy, przystawka, przystawki]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/kopertki-z-kurczakiem-1.jpg
+image: assets/images/2015/03/kopertki-z-kurczakiem-1.jpg
 ---
 Pewniak na szybko to najlepszy opis kopertek z kurczakiem. Kopertki robimy z ciasta fracuskiego z pysznym farszem z kurczakiem, szpinakiem i suszonymi pomidorami. Składniki na farsz tworzą idelane trio, a glównym bohaterem są aromatyczne suszone pomidory. Kopertki robi się błyskawicznie i już nie jeden raz uratowały mój obiad lub nagły nalot gości. Jest to jedno z tych dań, po którym możecie usłyszeć: daj przepis.
 
  
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/kopertki-z-kurczakiem-300x222.jpg)
+![](assets/images/2015/03/kopertki-z-kurczakiem-300x222.jpg)
 
 
 

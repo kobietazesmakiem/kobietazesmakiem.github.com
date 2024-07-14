@@ -3,7 +3,7 @@ layout: post
 title:  Gnocchi z sosem pomidorowo maślanym
 categories: [przepisy]
 tags: [dania-maczne, danie-glowne, gnocchi, kluski, kopytka, obiad, przepisy, wege, wloskie-smaki]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/02/gnocchi.jpg
+image: assets/images/2015/02/gnocchi.jpg
 ---
 Kluseczki gnocchi z sosem pomidorowo-maślanym. Włoskie delikatne kluseczki gnocchi, klasyczne ziemniaczane, niezwykle delikatne i rozpływające się w ustach. Te małe wciągające ziemniaczane cuda cudownie współgrają ze smakiem pomidorowego sosu i parmezanu. Te delikatne kluseczki przypominają o lecie i pysznych pomidorach prosto z pola. Kluseczki znikają w mgnieniu oka, a ich lekkość zaskakuje nawet najbardziej wymagające podniebienia. Najwięcej czasu w tej potrawie zajmuje ugotowanie ziemniaków, cała reszta to bułka z masłem, a raczej kluseczka z sosem.
 [![gnocchi 2](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/gnocchi-2-300x225.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/gnocchi-2.jpg)

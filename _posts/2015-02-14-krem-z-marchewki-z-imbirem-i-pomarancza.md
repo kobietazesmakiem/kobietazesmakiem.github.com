@@ -3,7 +3,7 @@ layout: post
 title:  Krem z marchewki z imbirem i pomarańczą
 categories: [przepisy]
 tags: [marchewka, przepisy, przystawka, zupa, zupa-krem, zupy]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/02/krem-z-marchewki.jpg
+image: assets/images/2015/02/krem-z-marchewki.jpg
 ---
 Zupa, do której mam ogromną słabość. Jest delikatna, kremowa i aromatyczna. Słodka i nieciekawa marchewka dostaje nowego charakteru i pazura. Serwowana zimą na gorąco idealnie rozgrzewa od stóp do głów i jest delikatnie pikantna dzięki imbirowi. Serwowana latem na zimno jest orzeźwiająca i pobudza zmysły. Zupa inspirowana przepisem kuchni Lidla, w mojej wersji mniej pomarańczowa, a bardziej pikantna.
 

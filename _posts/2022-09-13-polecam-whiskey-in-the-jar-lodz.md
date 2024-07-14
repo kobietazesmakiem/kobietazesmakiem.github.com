@@ -3,12 +3,12 @@ layout: post
 title:  Polecam Whiskey in the Jar Łódź
 categories: []
 tags: [polecam, restauracje]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2022/09/IMG_20220821_181739.jpg
+image: assets/images/2022/09/IMG_20220821_181739.jpg
 featured: true
 ---
 Pierwszy raz spotkałam Whiskey in the Jar podczas delegacji we Wrocławiu i od razu się zakochałam, nie tylko w boskich drinkach w słoiku ale przede wszystkim w soczystym mięsie. Tym większa była moja radość kiedy lokal ten znalazł się również w Łodzi na rynku Manufaktury. Nie dziwił mnie też fakt, że w błyskawicznym tempie trafił na szczyt listy najwyżej ocenianych restauracji w Łodzi w aplikacji Tripadvisor (którą bardzo cenię btw).
 
-[caption id="attachment\_1763" align="aligncenter" width="2560"]![Whiskey in the Jar](https://kobietazesmakiem.pl/wp-content/uploads/2022/09/IMG_20220821_181739-scaled.jpg "Whiskey in the Jar") Whiskey in the Jar Łódź[/caption]
+[caption id="attachment\_1763" align="aligncenter" width="2560"]![Whiskey in the Jar](assets/images/2022/09/IMG_20220821_181739-scaled.jpg "Whiskey in the Jar") Whiskey in the Jar Łódź[/caption]
 #### Dlaczego polecam?
 
 

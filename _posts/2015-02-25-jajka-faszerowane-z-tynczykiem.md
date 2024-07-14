@@ -3,7 +3,7 @@ layout: post
 title:  Jajka faszerowane z tyńczykiem
 categories: [przepisy]
 tags: [dietetycznie, dukan, inne, jajka, przekaska, przepisy, przystawka, tunczyk]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/02/jajka-faszerowane.jpg
+image: assets/images/2015/02/jajka-faszerowane.jpg
 ---
 Jajka faszerowane to zwykle gość na stole wielkanocnym. W moim domu jednak pojawia się znacznie częściej. Jest idealną przystawką, smaczną i banalnie prostą w wykonaniu. Jest to również dobra propozycja na drugie śniadanie. Ta wersja jajek faszerowanych jest jedną z moich ulubionych dzięki tuńczykowi i szczypiorkowi, które świetnie się komponują z posmakiem musztardy sarepskiej. To danie ma jeszcze jeden ogromny plus nie zawiera zbędnych kalorii.
 [![jajka faszerowane1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/jajka-faszerowane1-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/jajka-faszerowane1.jpg)

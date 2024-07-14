@@ -3,11 +3,11 @@ layout: post
 title:  Piernikowa szopka Bożonarodzeniowa
 categories: [przepisy]
 tags: [boze-narodzenie, ciasta-ciasteczka-desery, pierniczki, przepisy, swieta]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/01/szopka_bozonarodzeniowa_widok_ogolny.jpg
+image: assets/images/2015/01/szopka_bozonarodzeniowa_widok_ogolny.jpg
 ---
 Warto pokusić się o chwile artystycznej twórczości po to by sprawić radość sobie i bliskim. W ubiegłym roku był domek z pienika, czas na większą budowlę! Zapach piernikowej szopki po zapaleniu w niej świeczki typu podgrzewacz nadaje świątecznego nastroju.
 
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/01/szopka_bozonarodzeniowa_widok_ogolny-80x80.jpg) ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/01/szopka_bozonarodzeniowa_widok_wnetrza-80x80.jpg)
+![](/2015/01/szopka_bozonarodzeniowa_widok_ogolny-80x80.jpg) ![](assets/images/2015/01/szopka_bozonarodzeniowa_widok_wnetrza-80x80.jpg)
 
 **Składniki:**
 * 700 g mąki (tortowej)

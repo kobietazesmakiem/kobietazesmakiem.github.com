@@ -3,10 +3,10 @@ layout: post
 title:  Mazurek bakaliowy
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, czekolada, desery, mazurek, na-slodko, przepisy, wielkanoc]
-image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/mazurek-bakaliowy-1.jpg
+image: assets/images/2015/04/mazurek-bakaliowy-1.jpg
 ---
 Klasyczny mazurek kajmakowy połączony z pysznymi bakaliami i gorzka czekoladą, która równoważy słodki smak kajmaku, oczywiście na delikatnym, kruchym cieście. Jest to oczywiście jeden z pomysłów na Wielkanocny mazurek, ciasto może być sprawdzoną podstawą do waszych własnych ulubionych smaków. Warto zrobić go na 2 lub 3 dni przed świętami, żeby się przegryzł a ciasto stało się delikatniejsze.
-![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/mazurek-bakaliowy-300x222.jpg)
+![](assets/images/2015/04/mazurek-bakaliowy-300x222.jpg)
 
 
 

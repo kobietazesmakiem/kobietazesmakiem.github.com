@@ -11,13 +11,6 @@ baseurl: ""
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
-authors:
-  Paulina:
-    name: Paulina
-    display_name: Paulina
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-
 # Plugins
 plugins:
   - jekyll-paginate

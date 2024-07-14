@@ -913,7 +913,7 @@ ul.cloud {
 
 ul.cloud a {
   --size: 4;
-  font-size: calc(var(--size) * 0.5rem + 1rem);
+  font-size: calc(var(--size) * 0.25rem + 1rem);
   display: block;
   padding: 0.125rem 0.25rem;
   position: relative;

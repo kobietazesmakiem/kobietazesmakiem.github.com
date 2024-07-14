@@ -1,10 +1,10 @@
 ---
-title: "Tags"
+title: "Tagi"
 layout: page
 permalink: /tag
 ---
 
-<ul class="cloud weighted" role="navigation">
+<ul class="cloud weighted-high" role="navigation">
     {% assign tags_list = site.tags %}
     {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}

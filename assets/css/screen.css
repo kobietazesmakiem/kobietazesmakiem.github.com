@@ -909,9 +909,14 @@ ul.cloud {
   line-height: 2.5rem;
 }
 
-ul.cloud.weighted a {
+ul.cloud.weighted-high a {
   --size: 10;
   font-size: calc(var(--size) * 0.25rem + 1rem);
+}
+
+ul.cloud.weighted-light a {
+  --size: 4;
+  font-size: calc(var(--size) * 0.1rem + 1rem);
 }
 
 ul.cloud a {

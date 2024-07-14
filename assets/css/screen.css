@@ -916,7 +916,7 @@ ul.cloud.weighted-high a {
 
 ul.cloud.weighted-light a {
   --size: 10;
-  font-size: calc(var(--size) * 0.1rem + 1rem);
+  font-size: calc(var(--size) * 0.15rem + 1rem);
 }
 
 ul.cloud a {

@@ -2,7 +2,7 @@ version: "3.4"
 services:
     jekyll:
         image: jekyll/jekyll:latest
-        command: jekyll serve --trace
+        command: jekyll serve --force_polling -w -I --limit_posts 5
         ports:
             - 4000:4000
         volumes:

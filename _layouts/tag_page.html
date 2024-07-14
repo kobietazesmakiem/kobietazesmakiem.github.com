@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-<h2>{{ page.tag }}</h2>
-<ul>
-    {% for post in page.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }} | Tags: {{ post | tags }})</li>
-    {% endfor %}
-</ul>
 
-<div id="tag-cloud">
-    {{ site | tag_cloud }}
+<div class="row listrecent">
+    <div class="section-title col-md-12 mt-4">
+        <h2>#<span class="text-capitalize">{{ page.tag }}</span></h2>
+    </div>
+    {% assign pages_list = page.posts %}
+    {% for post in pages_list %}
+    {% if post.title != null %}
+    {% if group == null or group == post.group %}
+    {% include postbox.html %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
 </div>

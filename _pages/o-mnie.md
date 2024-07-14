@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
+title: O mnie
+permalink: /o-mnie
 comments: true
 ---
 

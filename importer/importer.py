@@ -35,7 +35,7 @@ print(len(records))
 
 for record in records:
     file_name = f"{record['date']}-{record['post_name']}.md"
-    file = codecs.open(file_name, "w", "utf-8")
+    file = codecs.open(f"../_posts/{file_name}", "w", "utf-8")
     file.write(f"""---
 layout: post
 title:  "{record['title']}"

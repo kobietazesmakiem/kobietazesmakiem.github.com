@@ -909,9 +909,12 @@ ul.cloud {
   line-height: 2.5rem;
 }
 
-ul.cloud a {
+ul.cloud.weighted a {
   --size: 10;
   font-size: calc(var(--size) * 0.25rem + 1rem);
+}
+
+ul.cloud a {
   display: block;
   padding: 0.125rem 0.25rem;
   position: relative;

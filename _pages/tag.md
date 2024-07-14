@@ -4,7 +4,7 @@ layout: page
 permalink: /tag
 ---
 
-<ul class="cloud" role="navigation">
+<ul class="cloud weighted" role="navigation">
     {% assign tags_list = site.tags %}
     {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}

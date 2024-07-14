@@ -2,7 +2,6 @@
 layout: page
 title: O mnie
 permalink: /o-mnie
-comments: true
 ---
 
 <div class="row justify-content-between">

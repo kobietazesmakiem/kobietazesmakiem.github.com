@@ -4,6 +4,7 @@ title:  Zielone curry z krewetkami inaczej
 categories: [przepisy]
 tags: [danie-glowne, krewetki, orientalnie, owoce-morza, przepisy, ryby-i-owoce-morza, tajskie]
 image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/zielone-curry-z-krewetkami-2.jpg
+featured: true
 ---
 Połączyć ziemniaki z ryżem? To nie może wyjść dobrze... a jednak! Zielone curry w tej wersji łączy w sobie owoce morza, melona i polskiego ziemianka. To lekko odmienione zielone curry z krewetkami powstało w wyniku braku w sklepie mango i batatów, tym bardziej było to duże wyzwanie. Efekt satysfakcjonujący. Przygotowanie jest bardzo szybkie a smak niecodzienny, no i ulubione krewetki, które zawsze się sprawdzają.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/zielone-curry-z-krewetkami-1-300x222.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=654"
-categories: ['przepisy']
-tags: ['inne', 'jajka', 'przekaska', 'przepisy', 'przystawka', 'przystawki', 'sniadanie', 'ziemniaki']
-image: "http://kobieta-ze-smakiem.pl/?p=654"
+title:  Hiszpańska tortilla
+categories: [przepisy]
+tags: [inne, jajka, przekaska, przepisy, przystawka, przystawki, sniadanie, ziemniaki]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/hiszpanska-tortilla.jpg
 ---
 Jakie powinno być idealne śniadanie w Hiszpanii? Powinno być gorące niczym hiszpański temperament, pyszne i dodawać energii. Taka właśnie jest hiszpańska tortilla. Nie mylić ze zwiniętym naleśnikiem! Prawdziwa hiszpańska tortilla to ziemniaki i jajka. Całość zapieczona na złoto może być śniadaniem na bogato lub ciepłą przystawką. Tajnym składnikiem tej wersji tortilli są ziemniaczki podsmażone tak, żeby miały chrupiącą skórkę jak frytki. Najlepiej smakuje na gorąco z dodatkiem lekkiej sałatki.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/hiszpanska-tortilla-1-300x222.jpg)

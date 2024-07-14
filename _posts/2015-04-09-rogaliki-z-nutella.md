@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=699"
-categories: ['przepisy']
-tags: ['ciasta-ciasteczka-desery', 'ciastka', 'desery', 'drozdzowe', 'na-slodko', 'nutella', 'przepisy']
-image: "http://kobieta-ze-smakiem.pl/?p=699"
+title:  Rogaliki z nutellą
+categories: [przepisy]
+tags: [ciasta-ciasteczka-desery, ciastka, desery, drozdzowe, na-slodko, nutella, przepisy]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/rogaliki-z-nutella-11.jpg
 ---
 Znikające rogaliki, czyli rogaliki drożdżowe z nutellą. Są delikatne i zaskakują czekoladowo - orzechowym słodkim wnętrzem. Ciasto to jedna z niecodziennych odmian ciasta drożdżowego, które wyrasta w lodówce. dzięki temu rogaliki maja cienkie ciasto i są niezwykle chrupkie. Jedna porcja to około 30 - 40 rogalików (w zależności od wielkości), taka ilość znika w jeden wieczór, więc można śmiało robić je z dwóch porcji.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/rogaliki-z-nutella-21-300x222.jpg)

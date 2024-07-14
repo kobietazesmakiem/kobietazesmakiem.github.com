@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=846"
-categories: ['przepisy']
-tags: ['carpaccio', 'miesa', 'na-slono', 'poledwica', 'przekaska', 'przepisy', 'przystawka', 'przystawki', 'wolowina']
-image: "http://kobieta-ze-smakiem.pl/?p=846"
+title:  Carpaccio wołowe
+categories: [przepisy]
+tags: [carpaccio, miesa, na-slono, poledwica, przekaska, przepisy, przystawka, przystawki, wolowina]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/05/carpaccio-wolowe.jpg
 ---
 Prosta i jednocześnie wykwintna przystawka dla prawdziwych mięsożerców czyli carpaccio z polędwicy wołowej. Z carpaccio jest podobnie jak z tatarem, o jego smaku decydują dwa czynniki świeże mięso i dodatki. Carpaccio nie wyobrażam sobie bez cytryny, oliwy z oliwek, świeżego pieprzu i soli morskiej. Co do pozostałych składników to kwestia gustu - w tym wydaniu stawiam na sery. Całość tworzy świetną delikatną przystawkę.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/05/carpaccio-wolowe-2-300x222.jpg)

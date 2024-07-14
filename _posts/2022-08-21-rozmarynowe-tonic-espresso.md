@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "https://kobietazesmakiem.pl/?p=1745"
-categories: ['przepisy']
-tags: ['espresso', 'kawa', 'napoje-i-drinki', 'przepisy', 'tonic']
-image: "https://kobietazesmakiem.pl/?p=1745"
+title:  Rozmarynowe tonic espresso
+categories: [przepisy]
+tags: [espresso, kawa, napoje-i-drinki, przepisy, tonic]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2022/08/IMG_20220821_120058.jpg
 ---
 Uff jak gorąco! Są takie właśnie dni kiedy upał i gorąca kawa nie idą w parze. Na taka okazję proponuję super chłodzące tonic espresso w aromatycznej wersji rozmarynowej.
 

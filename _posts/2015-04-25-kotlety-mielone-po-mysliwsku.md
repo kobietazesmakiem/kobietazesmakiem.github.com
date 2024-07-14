@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=772"
-categories: ['przepisy']
-tags: ['danie-glowne', 'dietetycznie', 'kotlety', 'mielone', 'miesa', 'na-slono', 'obiad', 'przepisy']
-image: "http://kobieta-ze-smakiem.pl/?p=772"
+title:  Kotlety mielone po myśliwsku
+categories: [przepisy]
+tags: [danie-glowne, dietetycznie, kotlety, mielone, miesa, na-slono, obiad, przepisy]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/kotlety-po-mysliwsku.jpg
 ---
 Kotlety mielone po myśliwsku to fajna propozycja mięsna na obiad lub jako ciepła przekąska na imprezę. Jest to lekka wersja kotletów mielonych, można nawet powiedzieć  light. Kotleciki są zrobione z mięsa z indyka, a zamiast bułki tartej dodajemy do nich bardziej dietetyczne otręby i smażymy je jedynie na natłuszczonej patelni. Dzięki temu kotlety są bardzo delikatne i niskokaloryczne. Dlaczego po myśliwsku? Ponieważ warzywa, w których dusimy kotlety mają delikatny posmak lasu i dziczyzny dzięki magicznemu składnikowi - owocom jałowca. Kotleciki najlepiej smakują serwowane z młodymi ziemniakami lub świeżym chlebem.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "https://kobietazesmakiem.pl/?p=1773"
-categories: ['przepisy']
-tags: ['przepisy']
-image: "https://kobietazesmakiem.pl/?p=1773"
+title:  Biszkopt ze śliwkami najprostszy
+categories: [przepisy]
+tags: [przepisy]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2022/09/Biszkopt-ze-sliwkami-2.jpg
 ---
 Jeden z moich ulubionych przepisów na jesień kiedy w warzywniaku i na ryneczku jest sezon na pyszne śliwki węgierki. Jest banalnie prosty, robi się go super szybko, a jednocześnie jest super puszysty i przepyszny. Po prostu urok klasyki ;)
 

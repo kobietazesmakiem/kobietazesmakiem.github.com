@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=675"
-categories: ['przepisy']
-tags: ['ciasta', 'ciasta-ciasteczka-desery', 'desery', 'mazurek', 'na-slodko', 'przepisy', 'wielkanoc']
-image: "http://kobieta-ze-smakiem.pl/?p=675"
+title:  Mazurek kokosowo porzeczkowy
+categories: [przepisy]
+tags: [ciasta, ciasta-ciasteczka-desery, desery, mazurek, na-slodko, przepisy, wielkanoc]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/mazurek-kokosowy.jpg
 ---
 To jest mazurek zdecydowanie w moich ulubionych smakach. Słodkie wiórki kokosowe pachnące rumem świetnie komponują się z kwaskowym dżemem porzeczkowym. Wszystko to na delikatnym i chrupiącym spodzie z kruchego ciasta. Sekretem kruchości ciasta jest zdecydowanie zastosowanie ugotowanego żółtka. Mazurek świetnie będzie się prezentował na świątecznym stole, najlepiej smakuje następnego dnia po przygotowaniu.
 

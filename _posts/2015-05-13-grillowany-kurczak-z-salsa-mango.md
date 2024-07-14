@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=851"
-categories: ['przepisy']
-tags: ['danie-glowne', 'dietetycznie', 'kurczak', 'miesa', 'na-slono', 'obiad', 'piers-z-kurczaka', 'przepisy']
-image: "http://kobieta-ze-smakiem.pl/?p=851"
+title:  Grillowany kurczak z salsą mango
+categories: [przepisy]
+tags: [danie-glowne, dietetycznie, kurczak, miesa, na-slono, obiad, piers-z-kurczaka, przepisy]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/05/kurczak-z-salsa-mango.jpg
 ---
 Grillowana pierś z kurczaka to bardzo wdzięczne mięso, świetnie sprawdza się jako podstawa drugiego dania lub dodatek do sałatek. Co najważniejsze taki kurczak nie musi być suchy i nudny. Jedną z jego barwnych wersji jest pierś serwowana z salsą mango. Odrobina egzotyki i soczysta pierś to bardzo wdzięczne połączenie, a przy okazji trochę witamin i niewiele kalorii.
 

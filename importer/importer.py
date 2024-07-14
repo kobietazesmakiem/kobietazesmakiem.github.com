@@ -25,7 +25,21 @@ for item in items:
             categories.append(category_el.getAttribute('nicename'))
 
     postmetas_el = item.getElementsByTagName('wp:postmeta')
-    image = title = item.getElementsByTagName('guid')[0].childNodes[0].data
+    image = None
+    for postmeta_el in postmetas_el:
+        meta_key_el = postmeta_el.getElementsByTagName('wp:meta_key')[0].childNodes[0].data
+        if meta_key_el == '_thumbnail_id':
+            thumbnail_id = postmeta_el.getElementsByTagName('wp:meta_value')[0].childNodes[0].data
+            # print(f"thumbnail_id: {thumbnail_id}")
+            post_id_els = document.getElementsByTagName('wp:post_id')
+            # print(f"len:{len(post_id_els)}")
+            for post_id_el in post_id_els:
+                # print(f"post_id_el:{post_id_el.childNodes[0].data}")
+                if post_id_el.childNodes[0].data == thumbnail_id:
+                    print(f"found post")
+                    thumbnail_id_post_id = post_id_el.parentNode
+                    image = thumbnail_id_post_id.getElementsByTagName('guid')[0].childNodes[0].data.strip()
+
 
     record = {
         'title': title, 'post_name': post_name, 'categories': categories, 'tags': tags, 'date': f"{date}"[:10],
@@ -43,10 +57,10 @@ for record in records:
     file = codecs.open(f"../_posts/{file_name}", "w", "utf-8")
     file.write(f"""---
 layout: post
-title:  "{record['title']}"
-categories: {record['categories']}
-tags: {record['tags']}
-image: "{record['image']}"
+title:  {record['title']}
+categories: [{', '.join(record['categories'])}]
+tags: [{', '.join(record['tags'])}]
+image: {record['image']}
 ---
 {record['content']}
     """)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=513"
-categories: ['przepisy']
-tags: ['danie-glowne', 'dietetycznie', 'dukan', 'grill', 'mielone', 'miesa', 'na-slono', 'obiad', 'przepisy', 'szaszlyki']
-image: "http://kobieta-ze-smakiem.pl/?p=513"
+title:  Szaszłyki z klopsikami
+categories: [przepisy]
+tags: [danie-glowne, dietetycznie, dukan, grill, mielone, miesa, na-slono, obiad, przepisy, szaszlyki]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/szaszlyki-z-klopsikami-2.jpg
 ---
 Nasz nadziany gość to szaszłyk w roli głównej. Szaszłyk niebanalny ze względu na użycie do jego przygotowania mięsa mielonego. Szaszłyki z klopsikami z mięsa mielonego to zupełnie inna odsłona tradycyjnego dania, w którym smaki cebuli, papryki i pieczarek w ziołach prowansalskich zostają przełamane delikatnymi kulkami z mięsa o aromacie kminu rzymskiego. Świetna propozycja na obiad lub przekąskę prosto z piekarnika, to również sprawdzone rozwiązanie na wiosennego grilla w ogrodzie.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/szaszlyki-z-klopsikami-300x222.jpg)

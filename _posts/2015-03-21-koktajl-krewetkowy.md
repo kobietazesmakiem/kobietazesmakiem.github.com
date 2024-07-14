@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=573"
-categories: ['przepisy']
-tags: ['krewetki', 'na-slono', 'owoce-morza', 'przekaska', 'przepisy', 'przystawka', 'ryby-i-owoce-morza', 'salatki']
-image: "http://kobieta-ze-smakiem.pl/?p=573"
+title:  Koktajl krewetkowy
+categories: [przepisy]
+tags: [krewetki, na-slono, owoce-morza, przekaska, przepisy, przystawka, ryby-i-owoce-morza, salatki]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/koktajl-krewetkowy.jpg
 ---
 Koktajl z krewetek to jedno z dań, które najpierw je się oczami. Kieliszek na wysokiej nóżce, zieleń świeżej sałaty i piękne prążkowane krewetki tygrysie, sprawiają, że ślinka cieknie. Koktajl zawsze sprawdza się jako efektowny punkt wieczoru, a jego przygotowanie tak naprawdę jest bardzo proste, dlatego lubię ten przepis. Jest to wersja koktajlu krewetkowego z mocnym aromatycznym sosem z dodatkiem cebuli. Ostre smaki w ciekawy sposób podkręcają delikatność krewetek. Przekonajcie się sami - wystarczy 15 minut.
 [![koktajl krewetkowy 2](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/koktajl-krewetkowy-2-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/koktajl-krewetkowy-2.jpg)

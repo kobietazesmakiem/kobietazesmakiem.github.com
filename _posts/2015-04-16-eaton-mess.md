@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=742"
-categories: ['przepisy']
-tags: ['beza', 'ciasta-ciasteczka-desery', 'desery', 'na-slodko', 'przepisy', 'truskawki']
-image: "http://kobieta-ze-smakiem.pl/?p=742"
+title:  Eaton mess
+categories: [przepisy]
+tags: [beza, ciasta-ciasteczka-desery, desery, na-slodko, przepisy, truskawki]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/eaton-mess.jpg
 ---
 Eaton mess to jeden z deserów klasyków. Ja lubię go bardzo, ponieważ jest lekki i owocowy, a chrupiące beziki to dodatkowa gratka smakowa. Deser jest bardzo prosty do przyrządzenia, a wygląda tak, że ślinka cieknie.
 [![eaton mess 2](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/eaton-mess-21-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/04/eaton-mess-21.jpg)

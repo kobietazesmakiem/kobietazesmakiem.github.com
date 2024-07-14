@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=764"
-categories: ['przepisy']
-tags: ['borowki', 'ciasta', 'ciasta-ciasteczka-desery', 'desery', 'mascarpone', 'na-slodko', 'owoce', 'przepisy', 'tarta']
-image: "http://kobieta-ze-smakiem.pl/?p=764"
+title:  Tarta z kremem mascarpone i owocami
+categories: [przepisy]
+tags: [borowki, ciasta, ciasta-ciasteczka-desery, desery, mascarpone, na-slodko, owoce, przepisy, tarta]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/tarta-z-owocami-lesnymi-1.jpg
 ---
 Uwielbiam tarty, które już na pierwszy rzut oka zapowiadają słodką ucztę. Ta dokładnie taka jest. Chrupiące ciasto w połączeniu z puszystą masą śmietankową, przełamane lekką kwasowością borówek  i malin jest przepyszne. Jednocześnie ta wersja tarty stanowi jeden z lżejszych deserów na ciepły słoneczny dzień. Sekretem w tym przypadku zdecydowanie jest warstwa przesmażonych borówek, które dodają leśnego aromatu całości i świetnego waloru kolorystycznego.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/tarta-z-owocami-lesnymi-2-300x222.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=807"
-categories: ['przepisy']
-tags: ['dodatki', 'na-slono', 'obiad', 'przepisy', 'szparagi', 'wege']
-image: "http://kobieta-ze-smakiem.pl/?p=807"
+title:  Pieczone zielone szparagi
+categories: [przepisy]
+tags: [dodatki, na-slono, obiad, przepisy, szparagi, wege]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/szparagi-zielone.jpg
 ---
 Wiosna to sezon na szparagi. Pojawiają się i kuszą z półek na straganach i w marketach. To świetny czas na ich przyrządzenie, zwłaszcza, że od czasów starożytnych przypisuje się im różne właściwości lecznicze. Ale nie to jest najważniejsze, najważniejsze, że takie właśnie świeże wiosenne szparagi są najpyszniejsze. Poza klasycznymi szparagami gotowanymi w wodzie lub na parze, serwowanymi z zasmażką z bułki tartej, warto je również upiec i wychodzą rewelacyjne. Ten przepis to wersja dla wielbicieli czosnku i aromatycznych olejów. Tak upieczone szparagi będą świetnym dodatkiem np. do grillowanego kurczaka lub pieczonego łososia.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/zielone-szparagi-pieczone-222x300.jpg)

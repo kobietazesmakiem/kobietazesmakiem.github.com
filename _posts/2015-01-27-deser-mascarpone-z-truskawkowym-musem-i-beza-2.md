@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=138"
-categories: ['przepisy']
-tags: ['bezy', 'ciasta-ciasteczka-desery', 'desery', 'przepisy', 'truskawki']
-image: "http://kobieta-ze-smakiem.pl/?p=138"
+title:  Deser mascarpone z truskawkowym musem i bezą
+categories: [przepisy]
+tags: [bezy, ciasta-ciasteczka-desery, desery, przepisy, truskawki]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/01/deser-mascarpone.jpg
 ---
 Delikatny puszysty deser, w którym słodycz kremu z  bitej śmietany i mascarpone przełamuje ożywczo mus truskawkowy, a niespodzianka w postaci chrupiących kawałków bezy stanowi dodatkowy walor smakowy. Deser ma jeszcze dwie ważne zalety pięknie wygląda i jest łatwy w przygotowaniu.
 

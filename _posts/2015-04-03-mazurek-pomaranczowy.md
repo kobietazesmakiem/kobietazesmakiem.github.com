@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=671"
-categories: ['przepisy']
-tags: ['ciasta', 'ciasta-ciasteczka-desery', 'desery', 'mazurek', 'na-slodko', 'przepisy', 'wielkanoc']
-image: "http://kobieta-ze-smakiem.pl/?p=671"
+title:  Mazurek pomarańczowy
+categories: [przepisy]
+tags: [ciasta, ciasta-ciasteczka-desery, desery, mazurek, na-slodko, przepisy, wielkanoc]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/04/mazurek-pomaranczowy.jpg
 ---
 Obok klasycznych kajmakowych mazurków, warto również zaproponować coś owocowego. Jedno ze świetnych połączeń to słodko-gorzki smak pomarańczy w połączeniu z czekoladą. Mazurek jest jednym z tych bardziej wilgotnych i szybko się przegryza.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/04/mazurek-pomaranczowy-1-300x222.jpg)

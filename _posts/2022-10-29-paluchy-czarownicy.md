@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "https://kobietazesmakiem.pl/?p=1787"
-categories: ['przepisy']
-tags: ['ciasta-ciasteczka-desery', 'ciastka', 'desery', 'halloween', 'na-slodko', 'przepisy']
-image: "https://kobietazesmakiem.pl/?p=1787"
+title:  Paluchy czarownicy
+categories: [przepisy]
+tags: [ciasta-ciasteczka-desery, ciastka, desery, halloween, na-slodko, przepisy]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2022/10/IMG_20221016_133843.jpg
 ---
 Cukier albo psikus :) a może paluch czarownicy? Te kruche przerażające ciasteczka to bardzo prosty i efektowny słodki przysmak na Halloween. Ich najlepszym określeniem jest: ble i mniam w jednym :)
 

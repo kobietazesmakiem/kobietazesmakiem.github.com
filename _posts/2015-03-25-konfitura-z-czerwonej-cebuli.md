@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=610"
-categories: ['przepisy']
-tags: ['cebula', 'inne', 'konfitura', 'przekaska', 'przepisy', 'przystawka']
-image: "http://kobieta-ze-smakiem.pl/?p=610"
+title:  Konfitura z czerwonej cebuli
+categories: [przepisy]
+tags: [cebula, inne, konfitura, przekaska, przepisy, przystawka]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/konfitura-z-czerwonej-cebuli-2.jpg
 ---
 Konfitura z cebuli to bardzo ciekawe połączenie smaków, słodycz cukru trzcinowego świetnie współgra z ostrością cebuli. Niewątpliwie jest to konfitura z charakterem. Najważniejsze pytanie: do czego można jej używać? Konfitura z czerwonej cebuli najlepiej smakuje jako dodatek do mięs np. kaczki lub pieczeni, jako nadzienie do grillowanego kurczaka lub jako dodatek np. do deski serów. Pod względem zastosowania jest to konfitura bardzo podobna do żurawiny w słoiczku.
 

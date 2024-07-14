@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "http://kobieta-ze-smakiem.pl/?p=531"
-categories: ['przepisy']
-tags: ['na-slono', 'przekaska', 'przepisy', 'przystawka', 'salatki', 'sledz']
-image: "http://kobieta-ze-smakiem.pl/?p=531"
+title:  Sałatka ze śledziem i suszonymi śliwkami
+categories: [przepisy]
+tags: [na-slono, przekaska, przepisy, przystawka, salatki, sledz]
+image: https://kobietazesmakiem.pl/wp-content/uploads/2015/03/sledz-ze-sliwka-1.jpg
 ---
 Warstwowe śledzie z suszonymi śliwkami, cebulką i ogórkiem konserwowym na podstawie z ziemniaków w sosie winegret pod pierzynką z jogurtu. To zdecydowanie kompozycja idealna i moja ulubiona forma podawania śledzi. Słony smak śledzia idealnie łączy się ze słodyczą śliwek i ostrością cebuli. Ta warstwowa sałatka zaskakuje nawet najbardziej wymagające podniebienia. Świetnie sprawdza się jako przystawka i jako stały bywalec świątecznego stołu.
 ![](https://kobietazesmakiem.pl/wp-content/uploads/2015/03/sledz-ze-sliwka-2-300x222.jpg)

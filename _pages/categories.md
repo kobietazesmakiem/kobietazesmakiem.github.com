@@ -1,23 +1,19 @@
 ---
-title: "Categories"
-layout: default
-permalink: "/categories.html"
+title: "Kategorie"
+layout: page
+permalink: /category
 ---
 
-<div class="row listrecent">
-{% for category in site.categories %}
-<div class="section-title col-md-12 mt-4">
-<h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
-</div>
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-{% endfor %}
-</div>
+<ul class="cloud weighted-high" role="navigation">
+    {% assign categories_list = site.categories %}
+    {% if categories_list.first[0] == null %}
+    {% for category in categories_list %}
+    <li><a href="{{site.baseurl}}/category/{{ category | url_escape | strip | replace: ' ', '-' }}" data-weight="{{ site.categories[category].size }}">#{{ category | camelcase }}</a></li>
+    {% endfor %}
+    {% else %}
+    {% for category in categories_list %}
+    <li><a href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip | replace: ' ', '-' }}"  data-weight="{{ category[1].size }}">#{{ category[0] | camelcase }}</a></li>
+    {% endfor %}
+    {% endif %}
+    {% assign categories_list = nil %}
+</ul>

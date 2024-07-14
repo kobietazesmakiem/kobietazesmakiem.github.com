@@ -2,9 +2,8 @@
 layout: post
 title:  Zupa tajska z owocami morza
 categories: [przepisy]
-tags: [orientalnie, owoce-morza, przepisy, przystawka, ryby-i-owoce-morza, tajskie, zupa, zupy]
+tags: [orientalnie, owoce-morza, przystawka, ryby-i-owoce-morza, tajskie, zupa, zupy, polecam]
 image: assets/images/2015/02/zupa-tajska-inaczej-1.jpg
-featured: true
 ---
 Pewnie nie jeden Taj by się uśmiał dowiadując się, że mój nietypowy miks wszystkiego nazywam zupą tajską z owocami morza. Jest to wersja domowa, więc reguły i ograniczenia nie mają tu wstępu. Jest to zupa tajska inaczej, oprócz standardowych smaków owoców morza, imbiru, ostrości chili i aksamitu mleczka kokosowego, można w niej znaleźć inne ciekawe skarby Azji: pędy bambusa, grzyby mun, i kiełki fasoli mung, które świetnie udają makaron. Jest orientalna i sycąca, a sama osobiście mam do niej ogromną słabość i tą słabością zaraziłam domowników. Wy również dajcie się zarazić.
 [![zupa tajska inaczej](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/zupa-tajska-inaczej-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/zupa-tajska-inaczej.jpg)

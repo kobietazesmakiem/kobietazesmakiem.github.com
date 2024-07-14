@@ -2,7 +2,7 @@
 layout: post
 title:  Grillowany łosoś z sosem pieprzowym
 categories: [przepisy]
-tags: [danie-glowne, grill, kolacja, losos, na-slono, obiad, przepisy, ryba, ryby-i-owoce-morza]
+tags: [danie-glowne, grill, kolacja, losos, na-slono, obiad, rybaryby-i-owoce-morza]
 image: assets/images/2015/05/losos-z-sosem-pieprzowym-2.jpg
 ---
 Grillowany łosoś to jedna z bardziej wdzięcznych ryb jako pozycja obiadowa. Łososia przygotowuje się błyskawicznie i pod warunkiem zachowania zasad krótkiego pieczenia będzie soczysty z delikatnie chrupiącą skórką. Jedną z propozycji podania łososia może być dodanie do niego sosu pieprzowego, który swoją ostrością i aksamitną konsystencją dopełni smaku grillowanej ryby. Do tego klasyczne i ulubione dodatki, a obiad lub kolacja są gotowe w 30 minut.

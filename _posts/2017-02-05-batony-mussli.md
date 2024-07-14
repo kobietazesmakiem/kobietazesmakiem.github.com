@@ -2,7 +2,7 @@
 layout: post
 title:  Batony mussli
 categories: [przepisy]
-tags: [batony, ciasta-ciasteczka-desery, ciastka, desery, dietetycznie, na-slodko, przepisy]
+tags: [batony, ciasta-ciasteczka-desery, ciastka, desery, dietetycznie, na-slodko, ]
 image: assets/images/2017/02/batony-mussli-2.jpg
 ---
 Są takie dni lub tygodnie kiedy już na samo słowo słodycze się ślinię i nerwowo przeszukuję szafki w poszukiwaniu czegoś z pustymi kaloriami. Zwykle kończy sie na ciasteczkach lub czekoladzie, lub o zgrozo wizycie w cukierni i torcie bezowym (moja osobista największa cukiernicza słabość). Postanowiłam zatem poszukać alternatywy, która spełnia trzy kryteria: jest słodka (choć trochę), grupiąca i zdrowa. I tak metodą poszukiwań powstały batony mussli, które dzisiaj Wam proponuję. Są napakowane pysznymi bakaliami, pachną korzennymi przyprawami, a ich słodycz to efekt dobrej jakosci syropu klonowego. A i jeszcze jedno... szybko znikają :)

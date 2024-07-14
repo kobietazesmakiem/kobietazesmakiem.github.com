@@ -2,7 +2,7 @@
 layout: post
 title:  Roladki z kurczaka z suszonymi pomidorami i prosciutto
 categories: [przepisy]
-tags: [filet-z-kurczaka, miesa, obiad, prosciutto, przepisy, suszone-pomidory]
+tags: [filet-z-kurczaka, miesa, obiad, prosciutto, suszone-pomidory]
 image: assets/images/2015/03/roladka-z-kurczaka-w-prosciutto.jpg
 ---
 Przepis na ratunkowy, błyskawiczny i pyszny obiad to skarb dla każdej zapracowanej osoby. Przygotowanie pysznych roladek z kurczaka, z suszonymi pomidorami zawijanych w prosciutto trwa mniej czasu niż dowóz pizzy, stąd warto dodać ten przepis do listy ekspresowych obiadów. Dzięki prosciutto roladka z piersi kurczaka jest soczysta i aromatyczna, a ekstra dodatki w postaci konfitury z czerwonej cebuli i suszonych pomidorów zdecydowanie podkręcają smak całości. Jeżeli nie macie konfitury z cebuli możecie dodać po prostu niewielką ilość świeżej pokrojonej w kostkę cebuli.

@@ -2,7 +2,7 @@
 layout: post
 title:  Eaton mess
 categories: [przepisy]
-tags: [beza, ciasta-ciasteczka-desery, desery, na-slodko, przepisy, truskawki]
+tags: [beza, ciasta-ciasteczka-desery, desery, na-slodko, truskawki]
 image: assets/images/2015/04/eaton-mess.jpg
 ---
 Eaton mess to jeden z deserów klasyków. Ja lubię go bardzo, ponieważ jest lekki i owocowy, a chrupiące beziki to dodatkowa gratka smakowa. Deser jest bardzo prosty do przyrządzenia, a wygląda tak, że ślinka cieknie.

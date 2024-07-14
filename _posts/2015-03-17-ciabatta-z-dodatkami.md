@@ -2,7 +2,7 @@
 layout: post
 title:  Ciabatta z dodatkami
 categories: [przepisy]
-tags: [ciabatta, dania-maczne, inne, na-slono, pieczywo, przekaska, przepisy, przystawka, wege]
+tags: [ciabatta, dania-maczne, inne, na-slono, pieczywo, przekaska, przystawka, wege]
 image: assets/images/2015/03/ciabatta-orkiszowa.jpg
 ---
 Ciabatta to bardzo wdzięczne pieczywo, wykonuje się je stosunkowo szybko i łatwo, a pieczone z dodatkami kusi każdego łasucha. Ta ciabatta to wersja nieco zdrowsza, bo przygotowywana z mąki orkiszowej. Można dodać do niej ulubione składniki komponując według własnej kreatywności. Ciabatta orkiszowa najlepiej smakuje jeszcze ciepła maczana w dobrej jakości oliwie z oliwek.

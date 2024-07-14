@@ -2,9 +2,8 @@
 layout: post
 title:  Chicken tikka masala
 categories: [przepisy]
-tags: [danie-glowne, indyjskie, kurczak, miesa, obiad, przepisy]
+tags: [danie-glowne, indyjskie, kurczak, miesa, obiad, polecam]
 image: assets/images/2015/02/tikka-masala.jpg
-featured: true
 ---
 Indyjski kurczak tikka masala na bazie przepisu Gordona Ramsay’a.  Typowo indyjska potrawa, pikantna i aromatyczna. Zapach podsmażanej masali i imbiru cudownie wypełnia kuchnię. Większość przepisów proponuje blendowanie sosu, ja proponuję tego nie robić, dzięki czemu uzyskamy sos, w którym można rozgryzać kolejne smaki i poczuć aromat kawałeczków imbiru i czosnku. Mniam!
 [![tikka masala 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-1.jpg)

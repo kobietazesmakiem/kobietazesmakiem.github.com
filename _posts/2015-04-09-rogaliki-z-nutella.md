@@ -2,7 +2,7 @@
 layout: post
 title:  Rogaliki z nutellą
 categories: [przepisy]
-tags: [ciasta-ciasteczka-desery, ciastka, desery, drozdzowe, na-slodko, nutella, przepisy]
+tags: [ciasta-ciasteczka-desery, ciastka, desery, drozdzowe, na-slodko, nutella, ]
 image: assets/images/2015/04/rogaliki-z-nutella-11.jpg
 ---
 Znikające rogaliki, czyli rogaliki drożdżowe z nutellą. Są delikatne i zaskakują czekoladowo - orzechowym słodkim wnętrzem. Ciasto to jedna z niecodziennych odmian ciasta drożdżowego, które wyrasta w lodówce. dzięki temu rogaliki maja cienkie ciasto i są niezwykle chrupkie. Jedna porcja to około 30 - 40 rogalików (w zależności od wielkości), taka ilość znika w jeden wieczór, więc można śmiało robić je z dwóch porcji.

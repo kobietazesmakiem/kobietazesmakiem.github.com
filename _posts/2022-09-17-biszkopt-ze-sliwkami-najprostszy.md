@@ -2,7 +2,7 @@
 layout: post
 title:  Biszkopt ze śliwkami najprostszy
 categories: [przepisy]
-tags: [przepisy]
+tags: [ciasta]
 image: assets/images/2022/09/Biszkopt-ze-sliwkami-2.jpg
 ---
 Jeden z moich ulubionych przepisów na jesień kiedy w warzywniaku i na ryneczku jest sezon na pyszne śliwki węgierki. Jest banalnie prosty, robi się go super szybko, a jednocześnie jest super puszysty i przepyszny. Po prostu urok klasyki ;)

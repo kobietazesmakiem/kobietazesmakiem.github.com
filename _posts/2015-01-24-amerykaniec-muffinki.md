@@ -2,7 +2,7 @@
 layout: post
 title:  Amerykaniec – muffinki
 categories: [przepisy]
-tags: [ciasta, ciasta-ciasteczka-desery, muffinki, na-slodko, przepisy]
+tags: [ciasta, ciasta-ciasteczka-desery, muffinki, na-slodko]
 image: assets/images/2015/01/Amerykaniec_muffinki.jpg
 ---
 Dziś na słodko… proponuję przepis na ciasto amerykaniec. Ciasto ciemne, wilgotne, pachnące bakaliami i cynamonem. Idealne do mleka lub kawy. Standardowo amerykańca spotyka się w formie ciasta na dużej blasze, ja dzisiaj proponuję wersję muffinki z ciasta na amerykańca. Jeżeli wygodniej Wam będzie zrobić blaszkę ciasta proszę bardzo.

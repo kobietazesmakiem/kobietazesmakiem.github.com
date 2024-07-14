@@ -2,7 +2,7 @@
 layout: post
 title:  Kruche rogaliki migdałowe
 categories: [przepisy]
-tags: [boze-narodzenie, ciasta-ciasteczka-desery, ciastka, desery, na-slodko, przepisy, rogaliki]
+tags: [boze-narodzenie, ciasta-ciasteczka-desery, ciastka, desery, na-slodko, rogaliki]
 image: assets/images/2022/10/IMG_20221008_143717.jpg
 ---
 Nieziemsko kruche, o niesamowicie maślanym smaku kruche rogaliki migdałowe. Must have każdych świąt i imprez, mają wyjątkową moc znikania w mgnieniu oka. Wymagają trochę siły w ugniataniu i cierpliwości w chłodzeniu, ale sami zobaczycie - są warte grzechu.

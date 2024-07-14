@@ -2,7 +2,7 @@
 layout: post
 title:  Chili con carne
 categories: [przepisy]
-tags: [danie-glowne, jednogarnkowe, meksykanskie, miesa, na-ostro, na-slono, obiad, przepisy]
+tags: [danie-glowne, jednogarnkowe, meksykanskie, miesa, na-ostro, na-slono, obiad]
 image: assets/images/2015/03/chili-con-carne.jpg
 ---
 Chili con carne, potrwa z kuchni tex-mex i stały bywalec o dziwo amerykańskich fast foodów. Dla mnie jedna z ulubionych pozycji na liście obiadów na szybko. Z mięsa wołowego, fasoli i kukurydzy wyczarowujemy jednogarnkowe cudo pełne aromatów i smaków. To danie musi być pikantne i pachnieć kminem rzymskim - wtedy jest to prawdziwe chili con carne. Ma dwie ogromne zalety jest łatwe w przygotowaniu i bardzo sycące. Najlepiej smakuje serwowane na gorąco.

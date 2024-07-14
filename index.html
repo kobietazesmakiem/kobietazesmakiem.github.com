@@ -22,14 +22,9 @@ title: Przepisy
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
+    {% assign featured_posts = site.posts | where: "featured", true | sort: 'date' | reverse %}
+    {% for post in featured_posts limit: 4 %}
+        {% include featuredbox.html %}
     {% endfor %}
 
     </div>

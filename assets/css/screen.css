@@ -778,7 +778,7 @@ iframe {
         background-size: cover;
     }
 
-    .jumbotron.fortags .col-md-4 {
+    .jumbotron.fortags .transpdark {
         background: rgba(0, 0, 0, 0.75);
         color: #fff;
     }

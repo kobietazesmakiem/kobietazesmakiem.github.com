@@ -7,20 +7,14 @@ image: assets/images/2016/01/orientalne-palki-1.jpg
 ---
 Szybkie i smaczne danie na obiad pobudzające kubki smakowe. Orientalnie przyprawione podudzia z kurczaka idealnie komponują się z delikatnym i orzeźwiającym ryżem. Kurczak jest soczysty i aromatyczny dzięki orientalnej marynacie. Polecam dla wielbicieli smaków Azji i nie tylko.
 
-![](assets/images/2016/01/orientalne-palki-2-300x228.jpg)
-#### **Składniki:**
-
-
+**Składniki:**
 * 1 kg świeżych podudzi z kurczaka (pałek)
 * 200 g ryżu długoziarnistego
 * kawałek świeżego imbiru (około 3 cm)
 * garść świeżej mięty
 * łyżka masła
 
-
-#### **Składniki marynaty**:
-
-
+**Składniki marynaty**:
 * 2 łyżki oleju sezamowego
 * 1 łyżka sosu teriyaki
 * 1 łyżka ciemnego sosu sojowego
@@ -39,7 +33,4 @@ Imbir obieramy i kroimy w kosteczkę. Ryż gotujemy wg przepisu na opakowaniu, p
 
 Całość serwujemy na gorąco, polewając kurczaka sosem, który powstał podczas pieczenia. Wszystko warto posypać świeżą miętą.
 
-[av\_masonry\_gallery ids='1394,911' caption\_elements='none' caption\_styling='' caption\_display='always' size='fixed' orientation='' image\_size='masonry' gap='1px' columns='2' av-desktop-columns='' av-medium-columns='' av-small-columns='' av-mini-columns='' items='24' paginate='none' color='' custom\_bg='' animation='active' animation\_duration='' animation\_custom\_bg\_color='' animation\_custom\_bg\_color\_multi\_list='' animation\_z\_index\_curtain='100' overlay\_fx='active' container\_links='active' link\_dest='' lightbox\_text='' img\_scrset='' lazy\_loading='disabled' id='' custom\_class='' template\_class='' av\_uid='av-xgqp' sc\_version='1.0']
-
 Smacznego!
-    

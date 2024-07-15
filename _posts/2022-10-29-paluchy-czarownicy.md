@@ -19,7 +19,6 @@ Cukier albo psikus :) a może paluch czarownicy? Te kruche przerażające ciaste
 * 150 g obranych migdałów (bez skóry)
 * czerwony (krwisty) dżem do dekoracji
 
-
 **Wykonanie:**
 
 Wszystkie składniki poza migdałami zagniatamy na jednolite i gładkie ciasto. Tak przygotowane ciasto owijamy w folię i chłodzimy w lodówce 30-60 minut - dzięki temu ciasteczka będą kruche. Schłodzone ciasto dzielimy na mniejsze porcje, następnie rolujemy w długie kawałki grubości małego palca, kroimy na kawałki długości palca i formujemy paluchy. Warto zrobić je cieńsze, ponieważ w piekarniku urosną. Tak uformowane paluchy układamy na blasze do pieczenia wyłożonej papierem. Następnie w każdy paluch w miejscu paznokcia wciskamy migdał (cały lub połówkę). Warto wcisnąć go mocno bo paznokcie mają tendencję do wypadania po pieczeniu.  Na koniec paluchy nacinamy lekko jak na zdjęciach, dzięki czemu będa bardziej przypominać prawdziwe palce. Ciastka pieczemy na złoty kolor (około 15 minut) w temperaturze 200ºC .
@@ -27,4 +26,3 @@ Wszystkie składniki poza migdałami zagniatamy na jednolite i gładkie ciasto. 
 Żeby paluchy były bardziej przerażające można je serwować w krwistym dżemie.
 
 Smacznego!
-    

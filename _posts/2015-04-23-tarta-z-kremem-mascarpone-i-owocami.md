@@ -6,12 +6,8 @@ tags: [borowki, ciasta, ciasta-ciasteczka-desery, desery, mascarpone, na-slodko,
 image: assets/images/2015/04/tarta-z-owocami-lesnymi-1.jpg
 ---
 Uwielbiam tarty, które już na pierwszy rzut oka zapowiadają słodką ucztę. Ta dokładnie taka jest. Chrupiące ciasto w połączeniu z puszystą masą śmietankową, przełamane lekką kwasowością borówek  i malin jest przepyszne. Jednocześnie ta wersja tarty stanowi jeden z lżejszych deserów na ciepły słoneczny dzień. Sekretem w tym przypadku zdecydowanie jest warstwa przesmażonych borówek, które dodają leśnego aromatu całości i świetnego waloru kolorystycznego.
-![](assets/images/2015/04/tarta-z-owocami-lesnymi-2-300x222.jpg)
-
-
 
 **Składniki na ciasto:**
-
 
 * 230 g mąki
 * 4 łyżki cukru
@@ -20,19 +16,16 @@ Uwielbiam tarty, które już na pierwszy rzut oka zapowiadają słodką ucztę. 
 * 1 żółtko
 * szczypta soli
 
-
 **Składniki owocowe:**
 * 500 g borówek amerykańskich (świeżych lub mrożonych)
 * 3 łyżki cukru
 * świeże maliny
-
 
 **Składniki kremu:**
 * 300 g śmietany kremówki (30%)
 * 150 g mascarpone
 * 4 łyżki cukru pudru
 * sok z 1/3 cytryny
-
 
 **Wykonanie**
 
@@ -43,8 +36,6 @@ Borówki myjemy i oczyszczamy następnie smażymy je lekko ugniatając aż puszc
 Teraz możemy przygotować krem. Najpierw ubijamy śmietanę tak aby była ubita ale niezbyt sztywna, następnie dodajemy do niej stopniowo cukier i serek mascarpone, a na koniec sok z cytryny.
 
 Kiedy już mamy przygotowane wszystkie elementy możemy złożyć ciasto w całość. Na spód wykładamy warstwę musu z przesmażonych borówek, następnie wykładamy grubą warstwę kremu i ciasto dekorujemy świeżymi malinami. Następnie ciasto chłodzimy przynajmniej 2-3 godziny i możemy się nim rozkoszować.
-
-[av\_gallery ids='762,761,760' style='thumbnails' preview\_size='portfolio' crop\_big\_preview\_thumbnail='avia-gallery-big-crop-thumb' thumb\_size='featured\_large' columns='3' imagelink='lightbox' lazyload='avia\_lazyload' av\_uid='av-9b8ho']
 
 Smacznego!
     

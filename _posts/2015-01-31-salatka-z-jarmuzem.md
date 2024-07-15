@@ -7,8 +7,6 @@ image: assets/images/2015/01/salatka_jarmuz.jpg
 ---
 Delikatna sałatka, lekko wykwintna, prosta w przygotowaniu i dzięki połączeniu różnych smaków wyjątkowa. Idealnie komponuje się z ciepłymi grzankami z kozim serem i sosem balsamico. Świetnie sprawdza się jako przystawka i jest całkiem prosta w przygotowaniu. Podane składniki to dwie duże porcje sałatki.
 
-![](assets/images/2015/01/salatka_jarmuz-222x300.jpg)
-
 **Składniki:**
 * jarmuż
 * szpinak świeży
@@ -26,10 +24,6 @@ Delikatna sałatka, lekko wykwintna, prosta w przygotowaniu i dzięki połączen
 * 8 łyżek octu balsamicznego
 * 1 łyżka miodu
 * 1 łyżeczka soku malinowego
-
-
- [![salatka_jarmuz_1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/salatka_jarmuz_1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/salatka_jarmuz_1.jpg)
-
 
 **Przygotowanie:**
 

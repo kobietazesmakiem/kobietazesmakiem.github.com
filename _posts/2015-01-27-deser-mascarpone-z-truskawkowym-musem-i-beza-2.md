@@ -7,17 +7,12 @@ image: assets/images/2015/01/deser-mascarpone.jpg
 ---
 Delikatny puszysty deser, w którym słodycz kremu z  bitej śmietany i mascarpone przełamuje ożywczo mus truskawkowy, a niespodzianka w postaci chrupiących kawałków bezy stanowi dodatkowy walor smakowy. Deser ma jeszcze dwie ważne zalety pięknie wygląda i jest łatwy w przygotowaniu.
 
-[![deser mascarpone](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/deser-mascarpone-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/deser-mascarpone.jpg)
-
- 
-
-
 **Składniki:**
 * 0,5 kg świeżych truskawek
 * 250 gr serka mascarpone
 * 300 ml śmietanki kremówki (30%)
 * 2 łyżki cukru pudru
-* [bezy](https://kobietazesmakiem.pl/beziki/) około 10 sztuk
+* [bezy]({% post_url 2015-04-14-beziki %}) około 10 sztuk
 * świeża mięta do dekoracji
 
 

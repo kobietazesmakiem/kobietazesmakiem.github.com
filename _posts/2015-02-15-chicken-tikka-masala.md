@@ -6,9 +6,6 @@ tags: [danie-glowne, indyjskie, kurczak, miesa, obiad, polecam]
 image: assets/images/2015/02/tikka-masala.jpg
 ---
 Indyjski kurczak tikka masala na bazie przepisu Gordona Ramsay’a.  Typowo indyjska potrawa, pikantna i aromatyczna. Zapach podsmażanej masali i imbiru cudownie wypełnia kuchnię. Większość przepisów proponuje blendowanie sosu, ja proponuję tego nie robić, dzięki czemu uzyskamy sos, w którym można rozgryzać kolejne smaki i poczuć aromat kawałeczków imbiru i czosnku. Mniam!
-[![tikka masala 1](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-1-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-1.jpg)
-
-
 
 **Składniki:**
 * 2 woreczki ryżu basmati
@@ -27,14 +24,11 @@ Indyjski kurczak tikka masala na bazie przepisu Gordona Ramsay’a.  Typowo ind
 * 1 czubata łyżka koncentratu pomidorowego
 * sól
 
-
 **Wykonanie**
 
 Ryż gotujemy wg przepisu na opakowaniu.
 
 Cebulę, imbir, papryczkę i czosnek kroimy w drobną kosteczkę. Na patelni podgrzewamy olej i podsmażamy cebulę, aż do zeszklenia. Następnie dodajemy do niej papryczkę, imbir i czosnek. Smażymy to razem 3 minuty. Wsypujemy przyprawy i cukier (bez soli) i dalej smażymy około 2 minut. Dodajemy przecier pomidorowy i lekko mieszając całość karmelizujemy 2 minuty. Dodajemy pomidory z puszki razem z sokiem i dusimy wszystko około 10 minut.
-[![tikka masala 2](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-2-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/02/tikka-masala-2.jpg)
-
 
 Kurczaka kroimy w kostkę i smażymy na oleju na złoty kolor. Podsmażone mięso dodajemy do sosu i dusimy wszystko jeszcze ok. 10 minut pamiętając o mieszaniu co jakiś czas. Sos z kurczakiem zdejmujemy z ognia i na koniec mieszamy wszystko z jogurtem.
 

@@ -7,13 +7,7 @@ image: assets/images/2015/03/salatka-z-roszponki.jpg
 ---
 Są takie dni kiedy zwycięża apetyt na kolor, świeżość, zdrowie i coś lekkiego. Na takie zachcianki najlepsza jest sałatka. Świeża, delikatna i apetyczna. Tym razem proponuję sałatkę z roszponki z wędzonym łososiem w towarzystwie owoców, orzechów i pleśniowego sera. Kompozycja smakowa idealna. Świetnie sprawdzi się jako przystawka, lekki lunch lub przekąska na imprezie.
 
-
-![](assets/images/2015/03/salatka-z-roszponki-300x200.jpg)
-
-
-
 **Składniki:**
-
 
 * roszponka (1 opakowanie 100-130 g)
 * ser pleśniowy błękitny lazur (100 g)
@@ -25,12 +19,9 @@ Są takie dni kiedy zwycięża apetyt na kolor, świeżość, zdrowie i coś lek
 * 6 łyżek oliwy z oliwek
 * 4 łyżki wody
 
-
 **Wykonanie:**
 
 Ser pleśniowy kroimy w niedużą kostkę, łososia w mniejsze paski. Gruszkę obieramy i również kroimy w kostkę. Winogrona kroimy na cztery i usuwamy z nich pestki. Siekamy drobniutko orzechy. Roszponkę układamy w misce i dodajemy do niej pozostałe składniki. Całość delikatnie mieszamy (właściwie miejscami tylko podnosimy roszponkę, żeby składniki  delikatnie się przesypały również na spód sałatki).  Sos francuski przygotowujemy nieznacznie modyfikując przepis na opakowaniu. Zależy nam na tym, żeby sos był gęsty, więc dodajemy mniej wody niż oliwy z oliwek. Sałatkę polewamy sosem na chwilę przed podaniem.
-![](assets/images/2015/03/salatka-z-roszponki-1-300x200.jpg)
-
 
 Smacznego!
     

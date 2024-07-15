@@ -7,11 +7,6 @@ image: assets/images/2015/03/drozdzowe-z-owowcami.jpg
 ---
 Ciasto drożdżowe z owocami i kruszonką to trochę jak podróż do przeszłości. Czasów dzieciństwa kiedy słyszało się "jeszcze nie wolno jeść bo gorące". Każdy dom ma swój niepowtarzalny smak ciasta drożdżowego. Mój smak to przede wszystkim puszyste drożdżowe z kruszonką i owocami w zależności od sezonu truskawkami, śliwkami, a w tej wersji z borówkami i malinami. Ciasto jest pyszne, puszyste i delikatne, co więcej długo utrzymuje swoja świeżość, wystarczy pamiętać o tym żeby je dobrze przykryć. Sekretem dobrego drożdżowego ciasta jest zaczyn i cierpliwość. Najlepiej smakuje z cafe latte lub po prostu z mlekiem.
 
- 
-![](assets/images/2015/03/drozdzowe-z-owowcami-1-300x175.jpg)
-
-
-
 **Składniki:**
 * 1/2 kg mąki tortowej
 * 3/4 szklanki cukru
@@ -21,17 +16,14 @@ Ciasto drożdżowe z owocami i kruszonką to trochę jak podróż do przeszłoś
 * 50 g margaryny
 * łyżeczka cukru wanilinowego
 
-
 **Dodatki:**
 * świeże borówki amerykańskie
 * świeże maliny
-
 
 **Kruszonka:**
 * 100 g mąki tortowej
 * 50 g cukier
 * 50 g margaryny
-
 
 **Wykonanie**
 
@@ -42,6 +34,3 @@ Tak przygotowane ciasto pozostawiamy pod przykryciem do wyrośnięcia około 30-
 Kiedy ciasto już wyrosło przekładamy je do formy (tortownica o średnicy 26 cm). Układamy na wierzchu owoce i pozostawiamy pod przykryciem raz jeszcze na 20-30 minut do ponownego wyrośnięcia. Następnie posypujemy kruszonką i pieczemy około 40 minut w temperaturze 175 stopni C. Serwujemy z pyszną kawą lub mlekiem.
 
 Smacznego!
-
-[av\_masonry\_gallery ids='629,1361,1362' caption\_elements='none' caption\_styling='' caption\_display='always' size='fixed' orientation='' image\_size='masonry' gap='1px' columns='3' av-desktop-columns='' av-medium-columns='' av-small-columns='' av-mini-columns='' items='24' paginate='none' color='' custom\_bg='' animation='active' animation\_duration='' animation\_custom\_bg\_color='' animation\_custom\_bg\_color\_multi\_list='' animation\_z\_index\_curtain='100' overlay\_fx='active' container\_links='active' link\_dest='' lightbox\_text='' img\_scrset='' lazy\_loading='disabled' id='' custom\_class='' template\_class='' av\_uid='av-2cdkvq' sc\_version='1.0']
-    

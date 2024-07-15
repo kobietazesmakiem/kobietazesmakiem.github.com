@@ -6,9 +6,6 @@ tags: [danie-glowne, jednogarnkowe, meksykanskie, miesa, na-ostro, na-slono, obi
 image: assets/images/2015/03/chili-con-carne.jpg
 ---
 Chili con carne, potrwa z kuchni tex-mex i stały bywalec o dziwo amerykańskich fast foodów. Dla mnie jedna z ulubionych pozycji na liście obiadów na szybko. Z mięsa wołowego, fasoli i kukurydzy wyczarowujemy jednogarnkowe cudo pełne aromatów i smaków. To danie musi być pikantne i pachnieć kminem rzymskim - wtedy jest to prawdziwe chili con carne. Ma dwie ogromne zalety jest łatwe w przygotowaniu i bardzo sycące. Najlepiej smakuje serwowane na gorąco.
-![](assets/images/2015/03/chili-con-carne-1-222x300.jpg)
-
-
 
 **Składniki:**
 * 500 g mięsa mielonego wołowego
@@ -28,8 +25,6 @@ Chili con carne, potrwa z kuchni tex-mex i stały bywalec o dziwo amerykańskich
 **Wykonanie:**
 
 Cebulę kroimy w drobną kostkę i podsmażamy na dużej wysokiej patelni na rozgrzanej oliwie z oliwek aż do zeszklenia. Następnie dodajemy do cebuli pokrojone w kosteczkę czosnek i papryczkę chili. Całość podsmażamy około 3 minut. Do warzyw dodajemy mięso mielone i smażymy cały czas mieszając i rozdrabniając mięso na małe cząstki aż mięso będzie podsmażone. Kukurydzę odcedzamy i dodajemy do mięsa. Następnie na patelnię dodajemy również fasolę razem z zalewą z puszki i pomidory. Całość mieszamy, przykrywamy i dusimy aż zmięknie fasola. Na koniec dodajemy przyprawę do chili con carne (lub własną mieszankę: kmin rzymski, pieprz chili cayenne i ostrą paprykę) i przecier pomidorowy. Całość mieszamy, doprawiamy do smaku solą i dusimy jeszcze 5 minut dla połączenia się smaków.
-[![chili con carne](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/chili-con-carne-300x222.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/03/chili-con-carne.jpg)
-
 
 Smacznego!
     

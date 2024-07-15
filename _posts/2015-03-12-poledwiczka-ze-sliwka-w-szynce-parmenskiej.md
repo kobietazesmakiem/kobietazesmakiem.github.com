@@ -6,9 +6,6 @@ tags: [danie-glowne, kulinarne, miesa, na-slono, obiad, placki-ziemniaczane, pol
 image: assets/images/2015/03/poledwiczki-ala-grzaniec-2.jpg
 ---
 Dziś pozycja proponowana na obiad, czyli polędwiczka wieprzowa ze śliwką pieczona w szynce parmeńskiej podawana na placuszku ziemniaczanym z pietruszką. Polędwiczka to jedna z bardziej wdzięcznych części wieprzowiny. Przygotowuje się ją sprawnie, a dobrze przyrządzona jest delikatna i soczysta. Ta wersja polędwiczki jest jedną z moich ulubionych ponieważ smak śliwki i przypieczonej szynki parmeńskiej świetnie się komponują nadając polędwiczce wyjątkowy smak i aromat grzańca, który pysznie roznosi się po całym domu. Polędwiczkę serwujemy z pietruszkowym placuszkiem ziemniaczanym oraz warzywami i owocami, w których dusiła się polędwiczka.
-![](assets/images/2015/03/poledwiczki-ala-grzaniec-300x222.jpg)
-
-
 
 **Składniki:**
 * jedna polędwiczka wieprzowa (około 600 g)
@@ -21,7 +18,6 @@ Dziś pozycja proponowana na obiad, czyli polędwiczka wieprzowa ze śliwką pie
 * sól
 * pieprz
 
-
 **Składniki na placuszki:**
 * 2 duże ziemniaki
 * pół pęczka natki pietruszki
@@ -31,7 +27,6 @@ Dziś pozycja proponowana na obiad, czyli polędwiczka wieprzowa ze śliwką pie
 * pieprz
 * olej do smażenia
 
-
 **Wykonanie:**
 
 Polędwiczkę myjemy osuszamy i oczyszczamy z błon. Następnie kroimy na plastry o grubości około 3 cm. W każdym z plastrów robimy w środku dziurę, w którą wkładamy suszone śliwki. Następnie mięso delikatnie solimy i obsypujemy świeżo mielonym pieprzem. Na patelni rozgrzewamy olej i smażymy na nim plastry polędwiczki na złoty kolor z każdej strony (na ostrym ogniu około 4 minut z każdej strony). Następnie polędwiczki zdejmujemy z tłuszczu i pozostawiamy chwilę na ręczniku papierowym żeby odsączyć tłuszcz i przestudzić kawałki mięsa.
@@ -40,9 +35,6 @@ W międzyczasie przygotowujemy warzywa i owoce. Cebulę jabłko i pomarańczę o
 
 Kiedy mięso się piecze możemy przygotować placuszki. Ziemniaki ścieramy na drobnej tarce,  dodajemy do nich drobno posiekaną natkę pietruszki, jajko i mąkę. Całość mieszamy, doprawiamy do smaku solą i pieprzem i smażymy za złoty kolor na rozgrzanym oleju.
 
-[av\_gallery ids='550,551,549' style='thumbnails' preview\_size='portfolio' crop\_big\_preview\_thumbnail='avia-gallery-big-crop-thumb' thumb\_size='featured\_large' columns='3' imagelink='lightbox' lazyload='avia\_lazyload' av\_uid='av-bwehn']
-
 Całość serwujemy na gorąco.
 
 Smacznego!
-    

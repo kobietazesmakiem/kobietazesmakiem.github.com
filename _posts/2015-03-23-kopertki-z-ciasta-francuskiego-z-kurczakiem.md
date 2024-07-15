@@ -7,11 +7,6 @@ image: assets/images/2015/03/kopertki-z-kurczakiem-1.jpg
 ---
 Pewniak na szybko to najlepszy opis kopertek z kurczakiem. Kopertki robimy z ciasta fracuskiego z pysznym farszem z kurczakiem, szpinakiem i suszonymi pomidorami. Składniki na farsz tworzą idelane trio, a glównym bohaterem są aromatyczne suszone pomidory. Kopertki robi się błyskawicznie i już nie jeden raz uratowały mój obiad lub nagły nalot gości. Jest to jedno z tych dań, po którym możecie usłyszeć: daj przepis.
 
- 
-![](assets/images/2015/03/kopertki-z-kurczakiem-300x222.jpg)
-
-
-
 **Składniki:**
 * 2 opakowania ciasta francuskiego (lub jedno XXL)
 * 2 piersi z kurczaka
@@ -20,7 +15,6 @@ Pewniak na szybko to najlepszy opis kopertek z kurczakiem. Kopertki robimy z cia
 * 1 cebula
 * sól
 * pieprz
-
 
 **Wykonanie:**
 
@@ -33,6 +27,3 @@ Kopertki pieczemy w piekarniku nagrzanym do 180 stopni C (termoobieg) od 20 do 3
 Można je podawać na gorąco i na zimno, w obu wariantach są pyszne.
 
 Smacznego!
-
-[av\_masonry\_gallery ids='1353,1352,1351' caption\_elements='none' caption\_styling='' caption\_display='always' size='fixed' orientation='' image\_size='masonry' gap='1px' columns='3' av-desktop-columns='' av-medium-columns='' av-small-columns='' av-mini-columns='' items='24' paginate='none' color='' custom\_bg='' animation='active' animation\_duration='' animation\_custom\_bg\_color='' animation\_custom\_bg\_color\_multi\_list='' animation\_z\_index\_curtain='100' overlay\_fx='active' container\_links='active' link\_dest='' lightbox\_text='' img\_scrset='' lazy\_loading='disabled' id='' custom\_class='' template\_class='' av\_uid='av-35814z' sc\_version='1.0']
-    

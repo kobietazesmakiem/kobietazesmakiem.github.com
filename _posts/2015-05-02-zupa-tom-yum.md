@@ -6,9 +6,6 @@ tags: [krewetki, na-slono, orientalnie, owoce-morza, przystawka, przystawki, ryb
 image: assets/images/2015/05/tom-yum-2.jpg
 ---
 Zupa tom yum, swój niepowtarzalny smak zawdzięcza idealnemu połączeniu kwaśnego i ostrego smaku. Oczywiście smaku tej zupy jedzonej w Tajlandii chyba nigdy nie uda mi się odtworzyć, ale może i dobrze, będzie pretekst żeby pojechać ponownie. Ta wersja tom yum jest klasycznie ostra i kwaśna, a do tego klarowna z pysznymi królewskimi krewetkami. Sekretem zupy tom yum jest uzyskanie smaku i aromatu krewetek nie z ich mięsa, ale ze skorupek, zapewnia to pełen aromat krewetek w najczystszej postaci. Ta zupa to idealna przystawka na ostro dla wielbicieli owoców morza.
-![](assets/images/2015/05/tom-yum-300x222.jpg)
-
-
 
 **Składniki:**
 * 400 g świeżych krewetek tygrysich (w całości ze skorupką)
@@ -22,14 +19,8 @@ Zupa tom yum, swój niepowtarzalny smak zawdzięcza idealnemu połączeniu kwaś
 * oliwa z oliwek do smażenia
 * odrobina świeżej pietruszki
 
-
 **Wykonanie**
 
 Przygotowujemy bulion tak, żeby był gorący. Imbir obieramy i kroimy w talarki. Papryczki chili pozbawiamy nasion z środka i kroimy w kostkę. Czosnek obieramy i rozgniatamy każdy ząbek. Z trawy cytrynowej odcinamy zdrewniałe końcówki i obieramy zewnętrzną warstwę, tak obrane łodygi kroimy na większe kawałki (około 3-4 cm długości). Krewetki myjemy w lodowatej wodzie i obieramy. Obrane krewetki płuczemy i chowamy do lodówki. Pozostałe z krewetek skorupki i głowy jeszcze raz płuczemy i podsmażamy na oliwie około 5 minut, aż nabiorą różowo złotego koloru. Do smażących się skorupek dolewamy bulion. Następnie dodajemy papryczki, imbir, czosnek, trawę cytrynową i skórkę z  limonki. Całość gotujemy około 30 minut na małym ogniu. Tak przygotowany wywar przelewamy przez sitko, żeby uzyskać klarowny bulion. Do gotującego się bulionu dodajemy krewetki, sos rybny i  sok z limonki. Całość gotujemy około 5 minut i w miarę potrzeby doprawiamy do smaku solą. Serwujemy na gorąco z krewetkami, posiekaną papryczką i świeżą pietruszką.
 
-[av\_gallery ids='823,822,821' style='thumbnails' preview\_size='portfolio' crop\_big\_preview\_thumbnail='avia-gallery-big-crop-thumb' thumb\_size='featured\_large' columns='3' imagelink='lightbox' lazyload='avia\_lazyload' av\_uid='av-aa0uk']
-
 Smacznego!
-
- 
-    

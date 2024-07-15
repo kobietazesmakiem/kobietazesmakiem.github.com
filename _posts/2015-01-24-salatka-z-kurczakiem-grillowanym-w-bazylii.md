@@ -6,8 +6,6 @@ tags: [filet-z-kurczaka, przystawki, salatki]
 image: assets/images/2015/01/salatka_z_kurczakiem_grillowanym_w_bazylii.jpg
 ---
 Lekka sałatka z grillowanym kurczakiem, słodkim posmakiem gruszki, sera pleśniowego i orzechów.  Miodowy sos winegret dodaje jej charakteru. Idealna o każdej porze roku, na przekąskę lub kiedy za 15 minut wpadają goście.
-![kobietazesmakiem.pl sałatka_z_kurczakiem_grillowanym_w_bazylii](assets/images/2022/08/salatka_z_kurczakiem_grillowanym_w_bazylii-222x300.jpg)
-
 
 **Składniki:**
 * piersi z kurczaka (dwie pojedyncze)
@@ -30,9 +28,6 @@ Lekka sałatka z grillowanym kurczakiem, słodkim posmakiem gruszki, sera pleśn
 * łyżeczka octu balsamicznego
 * sól (1/3 łyżeczki)
 * pieprz (1/4 łyżeczki)
-
-
- 
 
 **Wykonanie:**
 

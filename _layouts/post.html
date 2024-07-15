@@ -80,6 +80,8 @@ post_class: post-template
                 {{content}}
             </div>
 
+            {% include image-gallery.html folder=page.id %}
+
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">

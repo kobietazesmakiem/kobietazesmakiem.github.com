@@ -3,11 +3,9 @@ layout: post
 title:  Paluchy czarownicy
 categories: [przepisy]
 tags: [ciasta-ciasteczka-desery, ciastka, desery, halloween, na-slodko]
-image: assets/images/2022/10/IMG_20221016_133843.jpg
+image: assets/images/paluchy-czarownicy/IMG_20221016_133843-222x300.jpg
 ---
 Cukier albo psikus :) a może paluch czarownicy? Te kruche przerażające ciasteczka to bardzo prosty i efektowny słodki przysmak na Halloween. Ich najlepszym określeniem jest: ble i mniam w jednym :)
-
-![](assets/images/2022/10/IMG_20221015_195445-300x169.jpg)
 
 **Składniki (ilość: 2 pełne blachy z piekarnika)**
 * 225 g margaryny
@@ -27,8 +25,6 @@ Cukier albo psikus :) a może paluch czarownicy? Te kruche przerażające ciaste
 Wszystkie składniki poza migdałami zagniatamy na jednolite i gładkie ciasto. Tak przygotowane ciasto owijamy w folię i chłodzimy w lodówce 30-60 minut - dzięki temu ciasteczka będą kruche. Schłodzone ciasto dzielimy na mniejsze porcje, następnie rolujemy w długie kawałki grubości małego palca, kroimy na kawałki długości palca i formujemy paluchy. Warto zrobić je cieńsze, ponieważ w piekarniku urosną. Tak uformowane paluchy układamy na blasze do pieczenia wyłożonej papierem. Następnie w każdy paluch w miejscu paznokcia wciskamy migdał (cały lub połówkę). Warto wcisnąć go mocno bo paznokcie mają tendencję do wypadania po pieczeniu.  Na koniec paluchy nacinamy lekko jak na zdjęciach, dzięki czemu będa bardziej przypominać prawdziwe palce. Ciastka pieczemy na złoty kolor (około 15 minut) w temperaturze 200ºC .
 
 Żeby paluchy były bardziej przerażające można je serwować w krwistym dżemie.
-
-![](assets/images/2022/10/IMG_20221016_133843-222x300.jpg)
 
 Smacznego!
     

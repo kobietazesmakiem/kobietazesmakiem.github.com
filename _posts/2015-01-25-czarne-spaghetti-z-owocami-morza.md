@@ -8,9 +8,6 @@ image: assets/images/2015/01/tagliatelle_z_czarnym_makaronem.jpg
 Dane idealne na rodzinny obiad i kolację z przyjaciółmi. Smakuje pysznie, jest aromatyczne i delikatne, a jednocześnie robi ogromne wrażenie wizualne. Ma jeszcze jedną wielką zaletę… jest bardzo łatwe w wykonaniu.
 
 Gdzie kupić czarny makaron spaghetti? Najłatwiej w sklepach z żywnością z całego świata. Ta wersja sosu komponuje się też doskonale z czarnym tagliatelle. Więc śmiało kupujcie to co się uda, każda wersja czarnego makaronu będzie pyszna.
-[![czarne_spaghetti](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/czarne_spaghetti-222x300.jpg)](http://kobieta-ze-smakiem.pl/wp-content/uploads/2015/01/czarne_spaghetti.jpg)
-
-
 
 **Składniki:**
 * czarny makaron spaghetti (barwiony atramentem z kałamarnicy - 250 g)
@@ -26,9 +23,6 @@ Gdzie kupić czarny makaron spaghetti? Najłatwiej w sklepach z żywnością z c
 * odrobina masła
 * oliwa z oliwek
 * parmezan
-
-
- 
 
 **Przygotowanie:**
 

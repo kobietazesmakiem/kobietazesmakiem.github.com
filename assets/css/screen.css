@@ -941,3 +941,7 @@ ul.cloud a::after {
   content: " (" attr(data-weight) ")";
   font-size: 1rem;
 }
+
+.image-gallery {overflow: auto; margin-left: -1%!important;}
+.image-gallery li {float: left; display: block; margin: 5px;}
+.image-gallery li a img {height: 300px; width: 300px; object-fit: cover;}

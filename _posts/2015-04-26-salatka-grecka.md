@@ -3,7 +3,6 @@ layout: post
 title:  Sałatka grecka
 categories: [przepisy]
 tags: [na-slono, przekaska, przystawka, przystawki, salatkiwege]
-image: assets/images/2015/04/salatka-grecka-2.jpg
 ---
 Sałatkowy klasyk, czyli sałatka grecka. Pewnie prawdziwy Grek zrobiłby niemałą awanturę, że taka wersję sałatki nazywam klasyczną, ponieważ w Grecji w sałatce tej nigdy nie znajdzie się sałaty. Niestety ja jestem wierną fanką spolszczonej wersji sałatki i taka najbardziej mi odpowiada. Sałatka fajna, lekka i mocnymi akcentami cebuli i oliwek. Świetnie sprawdza się jako przekąska, albo dodatek do grilla. Z podanych składników wychodzi porcja na ok 4 osób.
 

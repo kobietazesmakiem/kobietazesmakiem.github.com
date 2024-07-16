@@ -3,7 +3,6 @@ layout: post
 title:  Owsianka z bakaliami
 categories: [przepisy]
 tags: [dietetycznie, inne, owsianka, sniadanie, zdrowo]
-image: assets/images/2015/02/owsianka.jpg
 ---
 Pyszna, delikatna, pachnąca morelami, śliwkami i innymi bakaliami owsianka - królowa poranka. Idealna na początek dobrego dnia. Jest dość gęsta i bardzo pożywna. Najlepiej smakuje na ciepło. Zaspakaja nawet największy apetyt na długo. Porcja dla dwóch bardzo głodnych porankowiczów. Na zimno może też stanowić doskonałe i zdrowe drugie śniadanie w pracy.
 

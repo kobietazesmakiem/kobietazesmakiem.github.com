@@ -3,7 +3,6 @@ layout: post
 title:  Tort bezowy Sahara
 categories: [przepisy]
 tags: [ciasta-ciasteczka-desery, tort, tort-bezowy]
-image: assets/images/2015/02/Tort-bezowy-Sahara.jpg
 ---
 Tort nietuzinowy. Swoim smakiem zaskakuje nawet najbardziej wymagające podniebienia. Jest bardzo słodki, ale w tym właśnie jest jego urok! Jego nazwa pochodzi od koloru bezy, która dzięki zastosowaniu cukru trzcinowego ma piękny piaskowy kolor.
 

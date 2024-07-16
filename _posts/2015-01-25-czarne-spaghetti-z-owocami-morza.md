@@ -3,7 +3,6 @@ layout: post
 title:  Czarne spaghetti z owocami morza
 categories: [przepisy]
 tags: [czarny-makaron, kolacja, krewetki, makaron, owoce-morza, ryby-i-owoce-morza, spaghetti]
-image: assets/images/2015/01/tagliatelle_z_czarnym_makaronem.jpg
 ---
 Dane idealne na rodzinny obiad i kolację z przyjaciółmi. Smakuje pysznie, jest aromatyczne i delikatne, a jednocześnie robi ogromne wrażenie wizualne. Ma jeszcze jedną wielką zaletę… jest bardzo łatwe w wykonaniu.
 

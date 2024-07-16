@@ -3,7 +3,6 @@ layout: post
 title:  Sałatka z karmelizowaną gruszką i kozim serem
 categories: [przepisy]
 tags: [na-slono, przekaska, przystawka, przystawkisalatki]
-image: assets/images/2015/06/salatka-z-karmelizowana-gruszka.jpg
 ---
 Bardzo lubię sałatki, które pozwalają odkrywać nowe i ciekawe smaki oraz ich nietypowe połączenia. Ta sałatka to karmelizowane gruszki i orzechy, których słodycz łączy się cudownie ze słonym kremowym kozim serem, a wszystko to serwowane na delikatnej rukoli tworzy świetną kompozycję. Prosto i pysznie - polecam jako fajną przekąskę.
 

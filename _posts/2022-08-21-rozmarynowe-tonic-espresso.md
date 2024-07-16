@@ -3,7 +3,6 @@ layout: post
 title:  Rozmarynowe tonic espresso
 categories: [przepisy]
 tags: [espresso, kawa, napoje-i-drinki, tonic]
-image: assets/images/2022/08/IMG_20220821_120058.jpg
 ---
 Uff jak gorąco! Są takie właśnie dni kiedy upał i gorąca kawa nie idą w parze. Na taka okazję proponuję super chłodzące tonic espresso w aromatycznej wersji rozmarynowej.
 

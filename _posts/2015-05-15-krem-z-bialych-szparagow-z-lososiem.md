@@ -3,7 +3,6 @@ layout: post
 title:  Krem z białych szparagów z łososiem
 categories: [przepisy]
 tags: [losos, na-slono, przystawka, przystawki, ryby-i-owoce-morza, szparagi, zupa, zupa-kremzupy]
-image: assets/images/2015/05/IMG_20150513_194104.jpg
 ---
 Sezon na szparagi to najlepszy czas na klasyki gatunku ze szparagami w roli głównej. Tym razem proponuję klasyczny krem ze szparagów z wędzonym łososiem. Delikatny kremowy o posmaku masła i śmietanki. Pyszny i lekki - świetna przystawka.
 

@@ -3,7 +3,6 @@ layout: post
 title:  Zupa krem z wędzonego kurczaka
 categories: [przepisy]
 tags: [kulinarnie, kurczak, na-slono, przystawka, zupa, zupa-krem, zupy]
-image: assets/images/2015/03/krem-z-wedzonego-kurczaka-1.jpg
 ---
 Zupa krem z wędzonego kurczaka początkowo była eksperymentem - pomysłem na coś rozgrzewającego i aromatycznego, poszukiwaniem czegoś smacznego. Szukając inspiracji na zupę krem trafiłam na przepis na krem z kury, więc pomyślałam czemu nie z wędzonego kurczaka, który jest jednym z produktów, który zawsze się sprawdza. Eksperyment zakończony sukcesem, zupa jest aromatyczna i delikatna, aromat wędzonki kusi podniebienia w całym domu, a palona cebulka podsyca apetyt. Całość delikatnie rozgrzewa i jest niezwykle pożywna. O prostocie wykonania nie wspomnę.
 

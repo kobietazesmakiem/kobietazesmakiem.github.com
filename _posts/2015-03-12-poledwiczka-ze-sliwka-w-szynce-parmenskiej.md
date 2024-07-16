@@ -3,7 +3,6 @@ layout: post
 title:  Polędwiczka ze śliwką w szynce parmeńskiej
 categories: [przepisy]
 tags: [danie-glowne, kulinarne, miesa, na-slono, obiad, placki-ziemniaczane, poledwiczka, polecam]
-image: assets/images/2015/03/poledwiczki-ala-grzaniec-2.jpg
 ---
 Dziś pozycja proponowana na obiad, czyli polędwiczka wieprzowa ze śliwką pieczona w szynce parmeńskiej podawana na placuszku ziemniaczanym z pietruszką. Polędwiczka to jedna z bardziej wdzięcznych części wieprzowiny. Przygotowuje się ją sprawnie, a dobrze przyrządzona jest delikatna i soczysta. Ta wersja polędwiczki jest jedną z moich ulubionych ponieważ smak śliwki i przypieczonej szynki parmeńskiej świetnie się komponują nadając polędwiczce wyjątkowy smak i aromat grzańca, który pysznie roznosi się po całym domu. Polędwiczkę serwujemy z pietruszkowym placuszkiem ziemniaczanym oraz warzywami i owocami, w których dusiła się polędwiczka.
 

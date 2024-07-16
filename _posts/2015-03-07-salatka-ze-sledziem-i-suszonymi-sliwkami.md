@@ -3,7 +3,6 @@ layout: post
 title:  Sałatka ze śledziem i suszonymi śliwkami
 categories: [przepisy]
 tags: [na-slono, przekaska, przystawka, salatki, sledz]
-image: assets/images/2015/03/sledz-ze-sliwka-1.jpg
 ---
 Warstwowe śledzie z suszonymi śliwkami, cebulką i ogórkiem konserwowym na podstawie z ziemniaków w sosie winegret pod pierzynką z jogurtu. To zdecydowanie kompozycja idealna i moja ulubiona forma podawania śledzi. Słony smak śledzia idealnie łączy się ze słodyczą śliwek i ostrością cebuli. Ta warstwowa sałatka zaskakuje nawet najbardziej wymagające podniebienia. Świetnie sprawdza się jako przystawka i jako stały bywalec świątecznego stołu.
 

@@ -3,7 +3,6 @@ layout: post
 title:  Baranek Wielkanocny
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, ciastka, desery, na-slodko, wielkanoc]
-image: assets/images/2015/04/baranek-wielkanocny-2.jpg
 ---
 Ten symboliczny wypiek jest nie tylko ozdobą stołu, ale również świetnym łakociem. Baranek jest łatwy w przygotowaniu, jedyne czego wymaga to posiadania specjalnej formy do pieczenia baranka (moja w rozmiarze 21 cm). Ucierane ciasto cytrynowe, z którego robimy baranka sprawdzi się również na babeczki.
 

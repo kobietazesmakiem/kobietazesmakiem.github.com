@@ -3,7 +3,6 @@ layout: post
 title:  Mazurek kokosowo porzeczkowy
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, desery, mazurek, na-slodko, wielkanoc]
-image: assets/images/2015/04/mazurek-kokosowy.jpg
 ---
 To jest mazurek zdecydowanie w moich ulubionych smakach. Słodkie wiórki kokosowe pachnące rumem świetnie komponują się z kwaskowym dżemem porzeczkowym. Wszystko to na delikatnym i chrupiącym spodzie z kruchego ciasta. Sekretem kruchości ciasta jest zdecydowanie zastosowanie ugotowanego żółtka. Mazurek świetnie będzie się prezentował na świątecznym stole, najlepiej smakuje następnego dnia po przygotowaniu.
 

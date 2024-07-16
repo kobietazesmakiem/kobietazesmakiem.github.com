@@ -3,7 +3,6 @@ layout: post
 title:  Sernik babuni
 categories: [przepisy]
 tags: [ciasta, ciasta-ciasteczka-desery, sernik]
-image: assets/images/2015/01/sernik_babuni_1.jpg
 ---
 Jeden z serników, w którym można zakochać się od pierwszego kęsa. Jest puszysty, delikatny i wilgotny. Składniki i wykonanie mogą zaskoczyć i nawet jeżeli przejdzie Wam przez myśl (tak jak mnie), że taka płynna konsystencja masy serowej lub spód bez podpieczenia przeczy wszelkim zasadom pieczenia ciast – spokojnie magia działa, a sernik wychodzi idealny!
 

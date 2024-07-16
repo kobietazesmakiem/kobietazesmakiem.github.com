@@ -3,9 +3,7 @@ layout: post
 title:  Paluchy czarownicy
 categories: [przepisy]
 tags: [ciasta-ciasteczka-desery, ciastka, desery, halloween, na-slodko]
-#image: IMG_20221016_133843-222x300.jpg
-#image: /assets/images/paluchy-czarownicy/IMG_20221016_133843-222x300.jpg
----
+##---
 Cukier albo psikus :) a może paluch czarownicy? Te kruche przerażające ciasteczka to bardzo prosty i efektowny słodki przysmak na Halloween. Ich najlepszym określeniem jest: ble i mniam w jednym :)
 
 **Składniki (ilość: 2 pełne blachy z piekarnika)**

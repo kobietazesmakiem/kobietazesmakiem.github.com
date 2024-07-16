@@ -3,7 +3,6 @@ layout: post
 title:  Sałatka z serem pleśniowym i śliwkami w winie
 categories: [przepisy]
 tags: [na-slono, przekaska, przystawka, przystawki, salatkiwege]
-image: assets/images/2015/06/salatka-da-doroslych-1.jpg
 ---
 Sałatka dla dorosłych, czyli zestawienie wytrawnych smaków czerwonego wina, wędzonych śliwek i pleśniowego sera, a wszystko to zaostrzone smakiem chrupiącej rzodkiewki. Sałatka wymaga drobnego przygotowania dzień przed, a dnia następnego robi się ją stosunkowo szybko. Smakuje najlepiej na świeżo i szybko znika. Świetna przekąska do lampki czerwonego wina i czerwonego mięsa np. steka. Można tą sałaką zaskoczyć gości - oczywiście ze względu na upojone w alkoholu śliwki - tylko dorosłych.
 

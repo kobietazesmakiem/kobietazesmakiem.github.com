@@ -3,7 +3,6 @@ layout: post
 title:  Carpaccio wołowe
 categories: [przepisy]
 tags: [carpaccio, miesa, na-slono, poledwica, przekaska, przystawka, przystawkiwolowina]
-image: assets/images/2015/05/carpaccio-wolowe.jpg
 ---
 Prosta i jednocześnie wykwintna przystawka dla prawdziwych mięsożerców czyli carpaccio z polędwicy wołowej. Z carpaccio jest podobnie jak z tatarem, o jego smaku decydują dwa czynniki świeże mięso i dodatki. Carpaccio nie wyobrażam sobie bez cytryny, oliwy z oliwek, świeżego pieprzu i soli morskiej. Co do pozostałych składników to kwestia gustu - w tym wydaniu stawiam na sery. Całość tworzy świetną delikatną przystawkę.
 

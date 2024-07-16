@@ -3,7 +3,6 @@ layout: post
 title:  Grillowany kurczak z salsą mango
 categories: [przepisy]
 tags: [danie-glowne, dietetycznie, kurczak, miesa, na-slono, obiad, piers-z-kurczaka]
-image: assets/images/2015/05/kurczak-z-salsa-mango.jpg
 ---
 Grillowana pierś z kurczaka to bardzo wdzięczne mięso, świetnie sprawdza się jako podstawa drugiego dania lub dodatek do sałatek. Co najważniejsze taki kurczak nie musi być suchy i nudny. Jedną z jego barwnych wersji jest pierś serwowana z salsą mango. Odrobina egzotyki i soczysta pierś to bardzo wdzięczne połączenie, a przy okazji trochę witamin i niewiele kalorii.
 

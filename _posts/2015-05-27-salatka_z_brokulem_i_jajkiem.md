@@ -3,7 +3,6 @@ layout: post
 title:  Sałatka z brokułem i jajkiem
 categories: [przepisy]
 tags: [brokul, dietetycznie, jajka, na-slono, przekaska, przystawka, przystawki, salatkiwege]
-image: assets/images/2015/05/salatka-brokulowa.jpg
 ---
 Błyskawicznie i zdrowo, czyli sałatka z brokułem i jajkiem z pysznymi dodatkami: prażonymi płatkami migdałów, parmezanem oraz jogurtowym dresingiem. Sałatkę robi się super szybko, po powrocie do domu można wrzucić do garnka brokuła i jajka, a skomponowanie samej sałatki to dosłownie 5 minut. Sałatka z brokułem i jajkiem ma jeszcze jedną wielką zaletę -  jest lekka i dietetyczna. Możemy ją zjeść od razu na świeżo lub spakować w pojemnik np. do pracy. Polecam dbającym o linię.
 

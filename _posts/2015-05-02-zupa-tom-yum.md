@@ -3,7 +3,6 @@ layout: post
 title:  Zupa tom yum
 categories: [przepisy]
 tags: [krewetki, na-slono, orientalnie, owoce-morza, przystawka, przystawki, ryby-i-owoce-morza, tajskie, zupa, zupy, polecam]
-image: assets/images/2015/05/tom-yum-2.jpg
 ---
 Zupa tom yum, swój niepowtarzalny smak zawdzięcza idealnemu połączeniu kwaśnego i ostrego smaku. Oczywiście smaku tej zupy jedzonej w Tajlandii chyba nigdy nie uda mi się odtworzyć, ale może i dobrze, będzie pretekst żeby pojechać ponownie. Ta wersja tom yum jest klasycznie ostra i kwaśna, a do tego klarowna z pysznymi królewskimi krewetkami. Sekretem zupy tom yum jest uzyskanie smaku i aromatu krewetek nie z ich mięsa, ale ze skorupek, zapewnia to pełen aromat krewetek w najczystszej postaci. Ta zupa to idealna przystawka na ostro dla wielbicieli owoców morza.
 

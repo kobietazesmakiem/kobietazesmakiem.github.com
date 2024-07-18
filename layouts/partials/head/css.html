@@ -1,5 +1,5 @@
-{{ $sass := resources.Get "sass/main.scss" }}
-{{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
+{{ $opts := dict "transpiler" "dartsass" }}
+{{ $style := resources.Get "sass/main.scss" | toCSS $opts | minify | fingerprint }}
 {{- with $style -}}
   {{- if eq hugo.Environment "development" -}}
 <link rel="stylesheet" href="{{ .RelPermalink }}">

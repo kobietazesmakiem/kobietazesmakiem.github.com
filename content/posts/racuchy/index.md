@@ -1,0 +1,34 @@
+---
+date: "2015-03-08T00:00:00Z"
+tags:
+- ciasta-ciasteczka-desery
+- dania-maczne
+- desery
+- inne
+- na-slodko
+- placuszki
+- przekaska
+- racuchy
+- sniadanie
+title: Racuchy
+---
+Złote skarby poranka... racuchy, bo o nich mowa, to słodkie wspomnienie dzieciństwa. Kiedy po całym domu rozprzestrzenia się aromat drożdży już wiadomo, że czeka nas pyszne słodkie śniadanie lub pyszny domowy deser. Dobry i sprawdzony przepis na racuchy to podstawa. To ciasto jest bardzo proste w wykonaniu, a racuchy zawsze wychodzą złote i puszyste. Najlepiej smakują jeszcze ciepłe posypane cukrem pudrem. Można je serwować również z ulubionym dżemem, syropem klonowych lub miodem. Calce lizać.
+
+**Składniki:**
+
+* 250 g mąki pszennej
+* 15 g świeżych drożdży
+* szklanka mleka
+* 6 łyżek cukru
+* 2 jajka
+* 50 g margaryny
+* olej do smażenia
+* cukier puder do posypania
+
+**Wykonanie:**
+
+Mąkę przesiewamy do miski. Pół szklanki mleka lekko podgrzewamy, żeby było ciepłe. Do mleka dodajemy drożdże i jedną łyżkę cukru i mieszamy aż drożdże i cukier się rozpuszczą. tak przygotowane mleko wlewamy do mąki. W osobnej misce ucieramy jajka z pozostałymi 5 łyżkami cukru. Margarynę rozpuszczamy. Do miski z mąką dodajemy masę jajeczną i margarynę. Całość mieszamy do uzyskania jednolitej konsystencji przypominającej gęstością śmietanę, mieszając staramy się jak najlepiej napowietrzyć ciasto. Ciasto przykrywamy ściereczką i odstawiamy do wyrośnięcia w ciepłe miejsce na około 30 minut.
+
+Wyrośnięte ciasto nakładamy łyżką na rozgrzany na patelni olej formując placuszki o grubości około 2 cm. Smażymy z obu stron na zloty kolor. Podajemy jeszcze ciepłe posypane cukrem pudrem, z ulubią konfiturą, syropem klonowym lub miodem.
+
+Smacznego!

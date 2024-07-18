@@ -1,0 +1,35 @@
+{{ define "main" }}
+<header>
+    <h1>{{ .Title }}</h1>
+    <h3>{{ .Params.sub_title }}</h3>
+</header>
+{{ $posts := where site.Pages "Params.tags" "intersect" (slice "polecam") }}
+<section id="featured-posts">
+    <header>
+        <h2 data-total="{{ len $posts }}">Polecane</h2>
+    </header>
+    {{ range first 4 $posts }}
+    <article>
+        {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
+        <div class="content">
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            <p>{{ .Summary | truncate 400}}</p>
+        </div>
+    </article>
+    {{ end }}
+</section>
+{{ $posts := .Site.RegularPages }}
+<section id="recent-posts">
+    <header>
+    <h2 data-total="{{ len $posts }}">Wpisy</h2>
+    </header>
+    {{ range first 30 ($posts) }}
+    <article>
+        {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
+        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+
+        <p>{{ .Summary }}</p>
+    </article>
+    {{ end }}
+</section>
+{{ end }}

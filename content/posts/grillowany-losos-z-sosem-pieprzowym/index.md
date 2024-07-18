@@ -1,0 +1,37 @@
+---
+date: "2015-05-06T00:00:00Z"
+tags:
+- danie-glowne
+- grill
+- kolacja
+- losos
+- na-slono
+- obiad
+- rybaryby-i-owoce-morza
+title: Grillowany łosoś z sosem pieprzowym
+---
+Grillowany łosoś to jedna z bardziej wdzięcznych ryb jako pozycja obiadowa. Łososia przygotowuje się błyskawicznie i pod warunkiem zachowania zasad krótkiego pieczenia będzie soczysty z delikatnie chrupiącą skórką. Jedną z propozycji podania łososia może być dodanie do niego sosu pieprzowego, który swoją ostrością i aksamitną konsystencją dopełni smaku grillowanej ryby. Do tego klasyczne i ulubione dodatki, a obiad lub kolacja są gotowe w 30 minut.
+
+**Składniki (4 porcje):**
+* filet z łososia 800 g
+* cytryna
+* 50 g masła
+* 1 szklanka mleka
+* 200 g śmietanki 30%
+* 1 łyżka mąki pszennej
+* pieprz zielony w occie winnym (4 łyżki)
+* sól zwykła i sól morska
+* pieprz mielony i świeżo mielony
+
+**Wykonanie:**
+
+Łososia myjemy i osuszamy, dzielimy na porcie, następnie każdą z nich skrapiamy sokiem z cytryny, oprószamy świeżo mieloną solą morską i świeżo mielonym pieprzem. Łososia pozostawiamy przyprawionego na czas przygotowania sosu, żeby nabrał smaku.
+
+Na patelni roztapiamy na małym ogniu masło. Kiedy masło jest rozpuszczone dodajemy mąkę i podgrzewamy cały czas energicznie mieszając. Kiedy masa lekko zgęstnieje dolewamy stopniowo mleko, a następnie śmietankę. Wszystko dodajemy cały czas mieszając sos trzepaczką, żeby nie zrobiły się grudki. Do sosu dodajemy sok z ćwiartki cytryny, doprawiamy do smaku solą i dodajemy pieprz najpierw 1/2 łyżeczki pieprzu mielonego, a następnie pieprz zielony ziarna odsączone z zalewy. Całość podgrzewamy aż sos zgęstnieje a smaki się połączą.
+
+Łososia grillujemy około 4-5 minut na grillu kontaktowym lub po 3 minuty z każdej strony na wysmarowanej tłuszczem patelni grillowej.
+
+Łososia serwujemy na gorąco, polanego delikatnie sosem pieprzowym z cytryną i dodatkami np. świeżą sałatą lub szparagami.
+
+Smacznego!
+    

@@ -1,0 +1,27 @@
+{{- /*
+Renders a page cover for the given  Page.
+
+@context {page} page The current page.
+@context {string} menuID The menu ID.
+
+@example: {{ partial "page-cover.html" (dict "page" . "size" "small|medium|original" "no_size" "true") }}
+*/ -}}
+{{- $image := false -}}
+{{- $no_size := .no_size | default false -}}
+{{- with .page.Params.cover -}}
+    {{- $image = . -}}
+{{- end }}
+{{- with .page.Resources.Get "cover.jpg" -}}
+    {{- $image = . -}}
+{{- end }}
+{{- if and $image .size -}}
+    {{- $image = $image.Resize .size -}}
+{{- end -}}
+{{- with $image -}}
+    <img src="{{ .RelPermalink }}" alt="{{ .Name }}"
+         {{ if not $no_size }}
+         width="{{ .Width }}"
+         height="{{ .Height }}"
+         {{ end }}
+    >
+{{- end -}}

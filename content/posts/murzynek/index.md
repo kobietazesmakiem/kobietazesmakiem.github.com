@@ -1,0 +1,32 @@
+---
+date: "2015-02-26T00:00:00Z"
+tags:
+- ciasta
+- ciasta-ciasteczka-desery
+- desery
+- murzynek
+- na-slodko
+title: Murzynek
+---
+Murzynek to jeden z bazowych przepisów w moim domu. Uwielbiam to ciasto z dwóch powodów. Po pierwsze można je zrobić w 10 minut, a więc jest idealne na nagły nalot gości lub jako przepis na leniwą niedzielę. Po drugie w magicznych okolicznościach znika w ciągu jednego popołudnia. Swoją popularność nasz słodki kolega zawdzięcza cudownemu zapachowi kakao i lekko chrupiącej kakaowej polewie. Mniam. Świetnie smakuje z mlekiem lub herbatą pomarańczową, o kawie latte już nie wspomnę.
+
+**Składniki polewy:**
+* 1/4 kostki margaryny
+* 3 łyżki kakao
+* 1 i 1/2 szklanki cukru
+* 4 łyżki wody
+
+**Składniki ciasta:**
+* 4 jajka
+* 1 i 1/2 szklanki mąki tortowej
+* 1/2 opakowania proszku do pieczenia
+
+**Wykonanie:**
+
+Do niedużego garnka dodajemy wszystkie składniki polewy i podgrzewamy cały czas mieszając aż składniki się rozpuszczą i zagotują. Odstawiamy do lekkiego wystudzenia.
+
+Białka ubijamy na sztywną pianę, następnie dodajemy do nich żółtka i mąkę . Całość miksujemy na gładką masę. Około 3/4 szklanki z przygotowanej wcześniej polewy należy odlać i odstawić - posłuży ona jako polewa dla naszego murzynka. Pozostałą część polewy dodajemy do  ciasta. Całość raz jeszcze miksujemy aż wszystkie składniki się połączą, a ciasto nabierze czekoladowego koloru. Pieczemy w długiej keksówce lub okrągłej niedużej formie około 40 minut (do suchego patyczka) w temperaturze 175 stopni C.
+
+Po wystudzeniu ciasta polewamy je przygotowaną wcześniej polewą. Polewę można lekko podgrzać dzięki czemu będzie się zdecydowanie łatwiej rozprowadzać po  cieście. Serwujemy kiedy polewa zastygnie (choć może być trudno się opanować).
+
+Smacznego!

@@ -1,8 +1,6 @@
-_site
-.DS_Store
-*.swp
-.sass-cache
-*~
-/.idea/
-/importer/.venv/
-/importer/
+public
+themes
+resources
+.idea
+*.iml
+.hugo_build.lock

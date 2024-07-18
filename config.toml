@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'pl'
+title = 'Kobieta ze smakiem'
+#summaryLength = 10
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posty'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tagi'
+pageRef = '/tags'
+weight = 30
+[[menus.main]]
+name = 'O mnie'
+pageRef = '/o-mnie'
+weight = 40
+
+[params]
+size_small = "100x"
+size_medium = "300x"
+size_large = "800x"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

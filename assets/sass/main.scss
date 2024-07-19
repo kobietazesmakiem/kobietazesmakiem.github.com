@@ -211,3 +211,9 @@ ul.pagination{
         box-shadow: $box_shadow;
     }
 }
+
+.cover{
+    > img{
+        box-shadow: $box_shadow;
+    }
+}

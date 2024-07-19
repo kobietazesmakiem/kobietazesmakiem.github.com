@@ -150,7 +150,7 @@
 
 
 @mixin responsive-max-width($offset: 0) {
-    max-width: map-get($grid-breakpoints, sm);
+    max-width: map-get($grid-breakpoints, sm) + 10px;
     $md_breakpoint: breakpoint-offset(md, $offset, $grid-breakpoints);
     $lg_breakpoint: breakpoint-offset(lg, $offset, $grid-breakpoints);
     $xl_breakpoint: breakpoint-offset(xl, $offset, $grid-breakpoints);
@@ -183,7 +183,7 @@
         box-sizing: border-box;
         margin: $gap_l;
 
-        width: 100%;
+        width: calc(100% - $gap_l);
 
         @include media-breakpoint-up(sm) {
                 width: calc(100%/#{math.ceil(math.div($cols, 4))} - 2 * #{$gap_l});

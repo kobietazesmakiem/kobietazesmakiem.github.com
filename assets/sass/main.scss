@@ -129,14 +129,14 @@ body {
     box-sizing: border-box;
     @include responsive-cols(2);
 
-    > header{
-        width: 100%
-    }
+//     > header{
+//         width: 100%
+//     }
     > article{
         box-sizing: border-box;
         position: relative;
         display: flex;
-        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
+        box-shadow: $box_shadow;
 
         > img {
             width: 250px;
@@ -157,19 +157,20 @@ body {
 #recent-posts{
     @include responsive-cols(3);
 
-    > header{
-        width: 100%
-    }
+//     > header{
+//         width: 100%;
+//     }
     > article{
         box-sizing: border-box;
         position: relative;
-        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
+        box-shadow: $box_shadow;
+        background-color: white;
         > section, footer {
             padding: 1rem;
         }
 
          img{
-            width: 100%;
+//             width: 100%;
             height: 250px;
             object-fit: cover;
             border-radius: $panel-radius $panel-radius 0 0;
@@ -177,9 +178,9 @@ body {
     }
 
     footer{
-        width: 100%;
         align-items: center;
         justify-content: space-between;
+        flex: 100%;
     }
 }
 
@@ -221,6 +222,7 @@ ul.pagination{
     list-style: none;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 
     li {
         margin: 0 15px;
@@ -241,6 +243,6 @@ ul.pagination{
         object-fit: cover;
         width: 100%;
         height: 100%;
-        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
+        box-shadow: $box_shadow;
     }
 }

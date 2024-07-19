@@ -25,6 +25,24 @@
   @return if($n < length($breakpoint-names), nth($breakpoint-names, $n + 1), null);
 }
 
+@function breakpoint-offset($name, $offset, $breakpoints: $grid-breakpoints, $breakpoint-names: map-keys($breakpoints)) {
+  $n: index($breakpoint-names, $name);
+  @if $n + $offset <= 1 {
+    @return $name;
+  }
+
+  $el: nth($breakpoint-names, $n + $offset);
+
+  @if not $n {
+    @error "breakpoint `#{$name}` not found in `#{$breakpoints}`";
+  }
+  @if not $el {
+    @return $name;
+  }@else{
+    @return $el;
+  }
+}
+
 // Minimum breakpoint width. Null for the smallest (first) breakpoint.
 //
 //    >> breakpoint-min(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl: 1400px))
@@ -131,19 +149,24 @@
 
 
 
-@mixin responsive-max-width() {
+@mixin responsive-max-width($offset: 0) {
     max-width: map-get($grid-breakpoints, sm);
+    $md_breakpoint: breakpoint-offset(md, $offset, $grid-breakpoints);
+    $lg_breakpoint: breakpoint-offset(lg, $offset, $grid-breakpoints);
+    $xl_breakpoint: breakpoint-offset(xl, $offset, $grid-breakpoints);
+    $xxl_breakpoint: breakpoint-offset(xxl, $offset, $grid-breakpoints);
+
     @include media-breakpoint-up(md) {
-        max-width: map-get($grid-breakpoints, md);
+        max-width: map-get($grid-breakpoints, $md_breakpoint);
     }
     @include media-breakpoint-up(lg) {
-        max-width: map-get($grid-breakpoints, lg);
+        max-width: map-get($grid-breakpoints, $lg_breakpoint);
     }
     @include media-breakpoint-up(xl) {
-        max-width: map-get($grid-breakpoints, xl);
+        max-width: map-get($grid-breakpoints, $xl_breakpoint);
     }
     @include media-breakpoint-up(xxl) {
-        max-width: map-get($grid-breakpoints, xxl);
+        max-width: map-get($grid-breakpoints, $xxl_breakpoint);
     }
 }
 
@@ -156,10 +179,10 @@
         flex-direction: row;
     }
 
-    > article{
+    > *{
+        box-sizing: border-box;
         margin: $gap_l;
-        border: 1px solid rgba(0, 0, 0, .125);
-        border-radius: $panel-radius;
+
         width: 100%;
 
         @include media-breakpoint-up(sm) {

@@ -1,0 +1,23 @@
+{{- /*
+For a given taxonomy, renders a list of terms assigned to the page.
+
+@context {page} page The current page.
+@context {string} taxonomy The taxonomy.
+
+@example: {{ partial "terms-global.html" }}
+*/}}
+
+{{ $count_class := cond (.count | default true) "count" "" }}
+{{ $taxonomy := .taxonomy | default "tags" }}
+{{ $tags := site.Taxonomies.tags.ByCount }}
+{{ $v1 := where $tags "Count" ">=" 2 }}
+{{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
+
+<div class="{{ $taxonomy }} {{ $count_class }}">
+  {{ range $v2 }}
+  {{ if .Term }}
+  {{ $tagURL := printf "tags/%s" .Term | relURL }}
+  <a href="{{ $tagURL }}" data-count="{{ .Count }}">{{ .Term }}</a>
+  {{ end }}
+  {{ end }}
+</div>

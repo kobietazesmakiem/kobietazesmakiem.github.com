@@ -1,27 +1,37 @@
 {{ define "main" }}
-  <article>
-    <section class="content">
-      <header>
+<article>
+    <header>
         <h1>{{ .Title }}</h1>
-        {{ partial "page-cover.html" (dict "page" . "size" "800x") }}
-        {{- if .Date -}}
-          {{- $date := .Date | time.Format "2006-01-02" -}}
-        <time datetime="{{ $date }}">{{ $date }}</time>
-        {{- end }}
-      </header>
-      {{ .Content }}
+<!--            <div>-->
+            {{- if .Date -}}
+            {{- $date := .Date | time.Format "2006-01-02" -}}
+            <i class="fa-regular fa-calendar-days"></i>
+            <time datetime="{{ $date }}"> {{ $date }}</time>
+            {{- end }}
+            <i class="fa-solid fa-tags"></i>
+            {{ partial "terms-page.html" (dict "taxonomy" "tags" "page" .) }}
+<!--            </div>-->
+    </header>
+    <figure class="cover">{{ partial "page-cover.html" (dict "page" . "size" "500x") }}</figure>
+    <section class="content">
+        {{ .Content }}
     </section>
-    <section class="gallery">
-    <h2>Gallery</h2>
     {{ $images := .Resources.Match "*.{jpg,jpeg,png,gif}" }}
     {{- if $images -}}
-    {{ partial "gallery.html" ($images)}}
-    {{ else -}}
-    <p>No images found in the gallery.</p>
+    <section class="gallery">
+        {{ partial "gallery.html" ($images)}}
+    </section>
+    <footer>
+
+        {{- if .Date -}}
+        {{- $date := .Date | time.Format "2006-01-02" -}}
+        <i class="fa-regular fa-calendar-days"></i>
+        <time datetime="{{ $date }}"> {{ $date }}</time>
+        {{- end }}
+        <i class="fa-solid fa-tags"></i>
+        {{ partial "terms-page.html" (dict "taxonomy" "tags" "page" .) }}
+        <!--            </div>-->
+    </footer>
     {{ end -}}
-    </section>
-    <section class="taxonomy">
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-    </section>
-  </article>
+</article>
 {{ end }}

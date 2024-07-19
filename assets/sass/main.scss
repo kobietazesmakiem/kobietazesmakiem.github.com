@@ -1,50 +1,50 @@
 @import "vars";
 @import "functions";
 
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
 a {
     color: $color_1;
     transition: all 0.2s;
     text-decoration: none;
+
     &:hover {
         text-decoration: none;
     }
 }
+
 body {
 	font-family: $font-family_1;
 	font-weight: 400;
 	line-height: 1.5;
 
 	> header {
-        	background: rgba(255, 255, 255, .97);
-        	box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
+        background: rgba(255, 255, 255, .97);
+        box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
+        padding: 0 0 0 2rem;
 
         > nav {
-            @include responsive-max-width();
             transition: top 0.2s ease-in-out;
             padding: 5px;
             display: flex;
             flex-wrap: wrap;
             align-items: center;
             justify-content: space-between;
-
             margin-right: auto;
             margin-left: auto;
 
+            @include responsive-max-width();
+
             .logo{
-                    max-height: 30px;
+                max-height: 30px;
             }
 
             ul {
                 list-style: none;
                 display: flex;
                 justify-content: center;
+
                 li {
                     margin: 0 15px;
+
                     a {
                         color: $color_1;
                         font-weight: 400
@@ -55,40 +55,67 @@ body {
     }
 
     > main {
-        @include responsive-max-width();
-        padding-top: 2rem;
         margin-right: auto;
         margin-left: auto;
+
+        @include responsive-max-width();
+
         header {
-            padding: $gap 0;
+            padding-bottom: 2rem;
+        	margin: 0;
+            padding: 0;
+            flex: 100%
+            h3{
+                font-size: 1.25rem;
+                font-weight: 300;
+            }
         }
-        section {
-            margin-bottom: 40px;
+
+        > section {
+            margin-bottom: 3rem;
+
             header {
                 margin-bottom: 27px;
                 padding: 0;
                 color: $color_2;
                 border-bottom: 1px solid rgba(0, 0, 0, .125);
+
                 h2 {
                     border-bottom: 1px solid rgba(0, 0, 0, .44);
                     display: inline-block;
-                    padding-bottom: $gap_xl;
+                    padding: $gap_xl;
+                    margin: 0;
                 }
             }
         }
-        article {
+
+        > article {
             margin-bottom: $gap_xl;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+
+            header, .content, .gallery, footer{
+                width: 100%;
+                position: relative;
+
+                @include responsive-max-width(-2);
+
+
+            }
         }
     }
     > article {
         a {
             color: $color_3;
             text-decoration: none;
+
             &:hover {
                 text-decoration: underline;
             }
         }
     }
+
     > footer {
         text-align: center;
         margin-top: $gap_xxl;
@@ -98,39 +125,117 @@ body {
 }
 
 #featured-posts{
+    box-sizing: border-box;
     @include responsive-cols(2);
+
     > header{
         width: 100%
     }
     > article{
+        box-sizing: border-box;
+        position: relative;
         display: flex;
+        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
+
         > img {
             width: 250px;
             border-radius: $panel-radius  0 0 $panel-radius;
             object-fit: cover;
         }
-        .content{
-            padding: $gap_l
+
+        section {
+            padding: 1rem
         }
     }
 }
 
 #recent-posts{
     @include responsive-cols(3);
+
     > header{
         width: 100%
     }
     > article{
-        > *{
-            padding: $gap_l;
+        box-sizing: border-box;
+        position: relative;
+        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
+        > section, footer {
+            padding: 1rem;
         }
-        > img{
 
-            padding: 0px;
+         img{
             width: 100%;
             height: 250px;
             object-fit: cover;
             border-radius: $panel-radius $panel-radius 0 0;
         }
+    }
+
+    footer{
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.tags{
+    display: inline;
+
+    >a {
+        text-transform: lowercase;
+        color: $color_accent;
+        padding-right: 5px;
+        padding-left: 5px;
+
+        &:before{
+            content: "#"
+        }
+    }
+
+    &.count{
+        > a{
+            &:after{
+                content: " (" attr(data-count) ")";
+            }
+        }
+    }
+}
+
+.fa-regular, .fa-solid{
+    color: $color_accent;
+}
+
+.more{
+    color: $color_accent;
+    position: absolute;
+    right: 0.5rem;
+    bottom: 0.5rem;
+}
+
+ul.pagination{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+    li {
+        margin: 0 15px;
+
+        a {
+            color: $color_accent;
+            font-weight: 400
+        }
+    }
+}
+
+.gallery{
+
+    display: flex;
+    flex-wrap: wrap;
+    @include responsive-cols(3);
+    img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        box-shadow: 30px 40px 30px -41px rgba(0, 0, 0, 1);
     }
 }

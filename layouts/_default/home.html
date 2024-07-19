@@ -3,6 +3,7 @@
     <h1>{{ .Title }}</h1>
     <h3>{{ .Params.sub_title }}</h3>
 </header>
+{{ .Content }}
 {{ $posts := where site.Pages "Params.tags" "intersect" (slice "polecam") }}
 <section id="featured-posts">
     <header>
@@ -11,25 +12,52 @@
     {{ range first 4 $posts }}
     <article>
         {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
-        <div class="content">
+        <section>
             <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
             <p>{{ .Summary | truncate 400}}</p>
-        </div>
+        </section>
+        <footer>
+            <a href="{{ .RelPermalink }}">
+                <i class="fa-solid fa-circle-chevron-right more"></i>
+            </a>
+        </footer>
     </article>
     {{ end }}
 </section>
-{{ $posts := .Site.RegularPages }}
+{{ $posts := where .Site.RegularPages  "Type" "posts" }}
+{{ $paginator := .Paginate $posts.ByTitle }}
 <section id="recent-posts">
     <header>
     <h2 data-total="{{ len $posts }}">Wpisy</h2>
     </header>
-    {{ range first 30 ($posts) }}
+    {{ range $paginator.Pages }}
     <article>
-        {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
-        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-
-        <p>{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}">
+            {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
+        </a>
+        <section>
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            <p>{{ .Summary | truncate 400}}</p>
+        </section>
+        <footer>
+            <a href="{{ .RelPermalink }}">
+                <i class="fa-solid fa-circle-chevron-right more"></i>
+            </a>
+        </footer>
     </article>
     {{ end }}
+    <footer>
+        {{ partial "pagination.html" . }}
+    </footer>
 </section>
+
+
+<section id="tags">
+    <header>
+        <h2>Tagi</h2>
+    </header>
+    {{ partial "terms-global.html" }}
+</section>
+
 {{ end }}
+

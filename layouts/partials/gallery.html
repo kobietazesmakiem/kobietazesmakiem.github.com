@@ -1,9 +1,9 @@
 <div class="gallery">
     {{ range . -}}
     <div class="gallery-item">
-        {{ $small := .Resize "400x" -}}
+        {{ $small := .Resize "300x" -}}
         <a href="{{ .RelPermalink }}" class="lightbox">
-            <img src="{{ $small.RelPermalink }}" alt="{{ .Name }}" width="{{ $small.Width }}" height="{{ $small.Height }}">
+            <img src="{{ $small.RelPermalink }}" alt="{{ .Name }}">
         </a>
     </div>
     {{ end -}}

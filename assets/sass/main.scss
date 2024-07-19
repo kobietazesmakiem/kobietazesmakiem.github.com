@@ -64,8 +64,9 @@ body {
             padding-bottom: 2rem;
         	margin: 0;
             padding: 0;
-            flex: 100%
-            h3{
+            flex: 100%;
+
+            h3 {
                 font-size: 1.25rem;
                 font-weight: 300;
             }
@@ -141,6 +142,10 @@ body {
             width: 250px;
             border-radius: $panel-radius  0 0 $panel-radius;
             object-fit: cover;
+
+            @include media-breakpoint-down(md) {
+                width: 25%;
+            }
         }
 
         section {

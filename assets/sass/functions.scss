@@ -150,6 +150,8 @@
 
 
 @mixin responsive-max-width($offset: 0) {
+    margin-right: auto;
+    margin-left: auto;
     max-width: map-get($grid-breakpoints, sm) + 10px;
     $md_breakpoint: breakpoint-offset(md, $offset, $grid-breakpoints);
     $lg_breakpoint: breakpoint-offset(lg, $offset, $grid-breakpoints);
@@ -174,6 +176,7 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    box-sizing: border-box;
 
     @include media-breakpoint-up(sm) {
         flex-direction: row;

@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'pl'
 title = 'Kobieta ze smakiem'
 #summaryLength = 10
+paginate = 6
 
 [[menus.main]]
 name = 'Home'
@@ -17,6 +18,7 @@ weight = 20
 name = 'Tagi'
 pageRef = '/tags'
 weight = 30
+
 [[menus.main]]
 name = 'O mnie'
 pageRef = '/o-mnie'

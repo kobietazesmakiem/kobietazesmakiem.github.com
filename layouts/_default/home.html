@@ -7,7 +7,7 @@
 {{ $posts := where site.Pages "Params.tags" "intersect" (slice "polecam") }}
 <section id="featured-posts">
     <header>
-        <h2 data-total="{{ len $posts }}">Polecane</h2>
+        <h2 data-total="{{ len $posts }}"><a href="/tags/polecam/">Polecam</a></h2>
     </header>
     {{ range first 4 $posts }}
     <article>
@@ -25,10 +25,10 @@
     {{ end }}
 </section>
 {{ $posts := where .Site.RegularPages  "Type" "posts" }}
-{{ $paginator := .Paginate $posts.ByTitle }}
+{{ $paginator := .Paginate $posts.ByDate.Reverse }}
 <section id="recent-posts">
     <header>
-    <h2 data-total="{{ len $posts }}">Wpisy</h2>
+    <h2 data-total="{{ len $posts }}"><a href="/posts/">Wpisy</a></h2>
     </header>
     {{ range $paginator.Pages }}
     <article>

@@ -92,9 +92,7 @@ class LightboxGallery {
     this.nextBtn.style.display = this.hasNext() ? 'unset' : 'none'
     setTimeout(() => {
         this.img.src = this.link;
-        setTimeout(() => {
-            this.img.style.opacity = 1;
-        }, 100);
+        this.img.style.opacity = 1;
     }, 200);
   }
 

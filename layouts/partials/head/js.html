@@ -1,7 +1,7 @@
 {{- with resources.Get "js/main.js" -}}
   {{- if eq hugo.Environment "development" -}}
     {{- with . | js.Build -}}
-<script src="{{ .RelPermalink }}"></script>
+<script src="{{ .RelPermalink }}?nocache"></script>
     {{- end -}}
   {{- else -}}
     {{- $opts := dict "minify" true -}}
@@ -10,4 +10,5 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+<!--test-->
 <script src="https://kit.fontawesome.com/c7447f748d.js" crossorigin="anonymous"></script>

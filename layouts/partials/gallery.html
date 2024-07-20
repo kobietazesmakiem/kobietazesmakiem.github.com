@@ -2,7 +2,7 @@
     {{ range . -}}
     <div class="gallery-item">
         {{ $small := .Resize "300x" -}}
-        <a href="{{ .RelPermalink }}" class="lightbox">
+        <a href="{{ .RelPermalink }}">
             <img src="{{ $small.RelPermalink }}" alt="{{ .Name }}">
         </a>
     </div>

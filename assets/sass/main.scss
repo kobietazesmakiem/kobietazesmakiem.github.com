@@ -203,7 +203,7 @@ ul.pagination{
 
     display: flex;
     flex-wrap: wrap;
-    @include responsive-cols(5);
+    @include responsive-cols(4);
     img {
         object-fit: cover;
         width: 100%;

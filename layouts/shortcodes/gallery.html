@@ -1,0 +1,7 @@
+{{ $subfolder := .Get 0 }}
+{{ $pattern :=  "*.{jpg,jpeg,png,gif}" }}
+{{ $path :=  printf "%s" $pattern | printf "%s/%s" $subfolder }}
+{{ $images := .Page.Resources.Match $path }}
+{{- if $images -}}
+{{ partial "gallery.html" ($images)}}
+{{ end -}}

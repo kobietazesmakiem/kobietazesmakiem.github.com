@@ -9,8 +9,8 @@ For a given taxonomy, renders a list of terms assigned to the page.
 
 {{ $count_class := cond (.count | default true) "count" "" }}
 {{ $taxonomy := .taxonomy | default "tags" }}
-{{ $tags := site.Taxonomies.tags.ByCount }}
-{{ $v1 := where $tags "Count" ">=" 2 }}
+{{ $tags := site.Taxonomies.tags.Alphabetical }}
+{{ $v1 := where $tags "Count" ">=" 1 }}
 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
 
 <div class="{{ $taxonomy }} {{ $count_class }}">

@@ -232,7 +232,7 @@ ul.pagination{
     transition: all .3s ease-in-out;
 
     >img{
-        width: 80%;
+        max-width: 95vw;
         max-height: 95vh;
         object-fit: cover;
         user-select: none;

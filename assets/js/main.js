@@ -58,6 +58,7 @@ class LightboxGallery {
     this.destroyEl(this.prevBtn);
     this.destroyEl(this.nextBtn);
     this.destroyEl(this.dialog);
+    document.removeEventListener('keydown', this.keyboardHandler);
     this.onCloseListener(this);
   }
 
@@ -102,7 +103,7 @@ class LightboxGallery {
   }
 
   createEl(){
-
+    const self = this;
     this.img = document.createElement('img');
     this.img.addEventListener('click', e => e.stopPropagation());
 
@@ -117,6 +118,20 @@ class LightboxGallery {
     this.nextBtn = document.createElement('i');
     this.nextBtn.className="fa-solid fa-circle-chevron-right next";
     this.nextBtn.addEventListener('click', this.next.bind(this));
+
+    this.keyboardHandler = function(event) {
+        console.log('key pressed', event);
+        if(event.key == "ArrowLeft") {
+            return self.prev();
+        }
+        if(event.key == "ArrowRight") {
+            return self.next();
+        }
+        if(event.key == "Escape") {
+            return self.close();
+        }
+    }
+    document.addEventListener('keydown', this.keyboardHandler);
 
     this.dialog = document.createElement('div');
     this.dialog.className = "lightbox";

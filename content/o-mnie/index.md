@@ -12,6 +12,6 @@ markup: html
 
 <p>Prywatnie jestem mamą dwóch wspaniałych córek, żoną, psią i chomiczą pańcią. Zawodowo zajmuję się funduszami unijnymi i R&D.</p>
 
-<p>Na moim blogu Kobietazesmakiem.pl dzielę się z Wami moimi przepisami, polecam dobre restauracje i kulinarne podróże, a także polecam warte uwagi produkty.</p>
+<p>Na moim blogu Kobietazesmakiem dzielę się z Wami moimi przepisami, polecam dobre restauracje i kulinarne podróże, a także polecam warte uwagi produkty.</p>
 
 

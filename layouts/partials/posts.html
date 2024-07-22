@@ -1,0 +1,24 @@
+{{- /*
+For a given taxonomy, renders a list of terms assigned to the page.
+
+@context {posts} posts
+
+@example: {{ partial posts . }}
+*/}}
+
+{{ $post := . }}
+
+<article>
+    <a href="{{ .RelPermalink }}">
+        {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
+    </a>
+    <section>
+        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+        <p>{{ .Summary | truncate 400}}</p>
+    </section>
+    <footer>
+        <a href="{{ .RelPermalink }}">
+            <i class="fa-solid fa-circle-chevron-right more"></i>
+        </a>
+    </footer>
+</article>

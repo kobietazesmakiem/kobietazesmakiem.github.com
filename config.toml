@@ -5,11 +5,6 @@ title = 'Kobieta ze smakiem'
 paginate = 6
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
 name = 'Posty'
 pageRef = '/posts'
 weight = 20

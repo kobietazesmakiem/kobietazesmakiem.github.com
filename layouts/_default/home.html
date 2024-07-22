@@ -26,25 +26,12 @@
 </section>
 {{ $posts := where .Site.RegularPages  "Type" "posts" }}
 {{ $paginator := .Paginate $posts.ByDate.Reverse }}
-<section id="recent-posts">
+<section id="posts">
     <header>
     <h2 data-total="{{ len $posts }}"><a href="/posts/">Wpisy</a></h2>
     </header>
     {{ range $paginator.Pages }}
-    <article>
-        <a href="{{ .RelPermalink }}">
-            {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
-        </a>
-        <section>
-            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-            <p>{{ .Summary | truncate 400}}</p>
-        </section>
-        <footer>
-            <a href="{{ .RelPermalink }}">
-                <i class="fa-solid fa-circle-chevron-right more"></i>
-            </a>
-        </footer>
-    </article>
+        {{ partial "posts.html" . }}
     {{ end }}
     <footer>
         {{ partial "pagination.html" . }}

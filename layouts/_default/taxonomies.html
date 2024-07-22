@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ $tags := site.Taxonomies.tags.Alphabetical }}
+{{ $v1 := where $tags "Count" ">=" 1 }}
+{{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
+<section id="tags-list">
+    <header>
+        <h2 ><a href="/tags/">Tagi</a></h2>
+    </header>
+    {{ range $v2 }}
+    {{ if .Term }}
+    {{ $term := .Term}}
+    {{ $tagURL := printf "tags/%s" .Term | relURL }}
+    {{ $post := first 1 (where site.Pages "Params.tags" "intersect" (slice $term)) }}
+
+    {{with index $post 0}}
+    <article>
+        <a href="{{ $tagURL }}">
+            <h3>#{{ $term }}</h3>
+            {{ partial "page-cover.html" (dict "page" . "size" "350x" "no_size" true) }}
+        </a>
+    </article>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</section>
+
+{{ end }}
+

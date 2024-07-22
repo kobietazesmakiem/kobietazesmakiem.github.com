@@ -1,0 +1,4 @@
+---
+title: Tagi
+layout: taxonomies
+---

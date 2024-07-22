@@ -112,7 +112,7 @@ body {
     }
 }
 
-#recent-posts{
+#posts{
     @include responsive-cols(3);
 
     > article{
@@ -137,6 +137,36 @@ body {
         justify-content: space-between;
         flex: 100%;
     }
+}
+#tags-list{
+    @include responsive-cols(5);
+
+    > article{
+        position: relative;
+        box-shadow: $box_shadow;
+        border-radius: $panel-radius $panel-radius 0 0;
+        line-height: 0;
+        padding: 0;
+
+        a > h3 {
+            position: absolute;
+            margin-left: auto;
+            margin-right: auto;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: white;
+            text-shadow: 1px 1px 1px black, 1px 1px 1px black;
+        }
+
+         img{
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border-radius: $panel-radius $panel-radius 0 0;
+        }
+    }
+
 }
 
 
